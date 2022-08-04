@@ -24,81 +24,81 @@
             <div class="twitter-space-item" style="border-bottom: 1px solid white; padding:20px 0px">
                 <div class="row" >
                     <div class="col-md-3 text-start">
-                        <h5 class="fw-bold">Topic:</h5>
+                        <h4 class="fw-bold">Topic:</h4>
                     </div>
                     <div class="col-md-9 text-start">
-                        <h5 class="fw-lighter">@space.Topic</h5>
+                        <h4 class="">@space.Topic</h4>
                     </div>
                 </div>
                 <div class="row" >
                     <div class="col-md-3 text-start">
-                        <h5 class="fw-bold">Link:</h5>
+                        <h4 class="fw-bold">Link:</h4>
                     </div>
                     <div class="col-md-9 text-start">
-                        <h5 class="fw-lighter">
+                        <h4 class="">
                             <a href="@space.Link">Listen Now</a>
-                        </h5>
+                        </h4>
                     </div>
                 </div>
                 <div class="row" >
                     <div class="col-md-3 text-start">
-                        <h5 class="fw-bold">Recording Date:</h5>
+                        <h4 class="fw-bold">Recording Date:</h4>
                     </div>
                     <div class="col-md-9 text-start">
-                        <h5 class="fw-lighter">@space.StartDate.Date.ToShortDateString()</h5>
+                        <h4 class="">@space.StartDate.Date.ToShortDateString()</h4>
                     </div>
                 </div>
                 <div class="row" >
                     <div class="col-md-3 text-start">
-                        <h5 class="fw-bold">Expiry Date:</h5>
+                        <h4 class="fw-bold">Expiry Date:</h4>
                     </div>
                     <div class="col-md-9 text-start">
-                        <h5 class="fw-lighter">
+                        <h4 class="">
                             @space.EndDate.Date.ToShortDateString()
                             @if(space.EndDate.Date > DateTime.Now.Date)
                             {
-                                <span class="fw-lighter">(Expires in @space.EndDate.Date.Subtract(DateTime.Now.Date).Days days)</span>
+                                <span class="">(Expires in @space.EndDate.Date.Subtract(DateTime.Now.Date).Days days)</span>
                             }
                             else
                             {
-                                <span class="fw-lighter" style="color:red">(Expired)</span>
+                                <span class="" style="color:red">(Expired)</span>
                             }
-                        </h5>
+                        </h4>
                     </div>
                 </div>
                 <div class="row" >
                     <div class="col-md-3 text-start">
-                        <h5 class="fw-bold">Summary:</h5>
+                        <h4 class="fw-bold">Summary:</h4>
                     </div>
                     <div class="col-md-9 text-start">
-                        <h5 class="fw-lighter">
+                        <h4 class="">
                             @space.Summary
-                        </h5>
+                        </h4>
                     </div>
                 </div>
                 <div class="row" >
                     <div class="col-md-3 text-start">
-                        <h5 class="fw-bold">Useful links:</h5>
+                        <h4 class="fw-bold">Useful links:</h4>
                     </div>
                     <div class="col-md-9 text-start">
                         @foreach(var link in space.Links)
                         {
-                            <h5 class="fw-lighter">
+                            <h4 class="">
                                 <a href="@link.LinkUrl">@link.LinkText</a>
-                            </h5>
+                            </h4>
                         }
                     </div>
                 </div>
                 <div class="row" >
                     <div class="col-md-3 text-start">
-                        <h5 class="fw-bold">Contact Us:</h5>
+                        <h4 class="fw-bold">Contact Us:</h4>
                     </div>
                     <div class="col-md-9 text-start">
                         @foreach(var participant in space.Participants)
                         {
-                            <h5 class="fw-lighter">
+                            <h4 class="">
                                 <a href="@participant.Link" class="text-info" style="text-decoration:none">@participant.Name</a>
-                            </h5>
+                            </h4>
                         }
                     </div>
                 </div>
