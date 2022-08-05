@@ -1,5 +1,99 @@
 [
     {
+        "topic": "Upgrading Azure AD Connect v1 to v2/AAD Connect Cloud Sync",
+        "recordingdate": "08/03/2022",
+        "expirydate":"09/02/2022",
+        "link": "https://twitter.com/i/spaces/1gqxvlQDPBWGB?s=20",
+        "summary": "Rob de Jong, Daniel Birmingham, Bailey Bercik, Jef Kazimer, and Mark Morowczynski discuss upgrading off of Azure AD Connect v1",
+        "links": [
+            
+            {
+            "linktext": "Links shared by @JefTek on Twitter during show",
+            "linkurl": "https://twitter.com/markmorow/status/1554965386121990145?s=20&t=507PmLNZXXKD7EbPt84FYw"
+            },
+            {
+            "linktext": "Upgrading Azure AD Connect Swing Migration",
+            "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version"
+            },
+            {
+            "linktext": "Azure AD Connect Config Documenter",
+            "linkurl": "https://github.com/Microsoft/AADConnectConfigDocumenter"
+            },
+            {
+            "linktext": "Running Azure AD Connect Cloud Sync with Azure AD Connect ",
+            "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp"
+            }        
+        ],
+        "participants": [
+            {
+                "name": "Rob de Jong - Microsoft",
+                "link": "https://twitter.com/rjong999"
+            },
+            {
+                "name": "Bailey Bercik - Microsoft",
+                "link": "https://twitter.com/BaileyBercik"
+            },
+            {
+                "name": "Mark Morowczynski - Microsoft",
+                "link": "https://twitter.com/markmorow"
+            },
+            {
+                "name": "Jef Kazimer - Microsoft",
+                "link": "https://twitter.com/jeftek"
+            }
+           
+        ]
+    },
+    {
+        "topic": "Identity PowerShell",
+        "recordingdate": "07/20/2022",
+        "expirydate":"08/19/2022",
+        "link": "https://twitter.com/i/spaces/1OyKADDjBnOxb?s=20",
+        "summary": "Adam Edwards, Merill Fernando, Jef Kazimer, Bailey Bercik and Mark Morowczynski discuss using PowerShell with Microsoft Graph",
+        "links": [
+            
+            {
+            "linktext": "Links shared by @BaileyBercik on Twitter during show",
+            "linkurl": "https://twitter.com/BaileyBercik/status/1549895445106663428"
+            },
+            {
+            "linktext": "Blog Announcement",
+            "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/update-your-applications-to-use-microsoft-authentication-library/ba-p/1257363"
+            },
+            {
+            "linktext": "Microsoft Graph PowerShell overview",
+            "linkurl": "https://docs.microsoft.com/en-us/powershell/microsoftgraph/overview?view=graph-powershell-1.0"
+            },
+            {
+            "linktext": "Find Azure and MSOnline cmdlets in Graph PowerShell",
+            "linkurl": "https://docs.microsoft.com/en-us/powershell/microsoftgraph/azuread-msoline-cmdlet-map?view=graph-powershell-1.0"
+            }        
+        ],
+        "participants": [
+            {
+                "name": "Adam Edwards - Microsoft",
+                "link": "https://twitter.com/adamedx"
+            },
+            {
+                "name": "Merill Fernando - Microsoft",
+                "link": "https://twitter.com/merill"
+            },
+            {
+                "name": "Bailey Bercik - Microsoft",
+                "link": "https://twitter.com/BaileyBercik"
+            },
+            {
+                "name": "Mark Morowczynski - Microsoft",
+                "link": "https://twitter.com/markmorow"
+            },
+            {
+                "name": "Jef Kazimer - Microsoft",
+                "link": "https://twitter.com/jeftek"
+            }
+           
+        ]
+    },
+    {
         "topic": "Workload Identities",
         "recordingdate": "07/12/2022",
         "expirydate":"08/12/2022",
