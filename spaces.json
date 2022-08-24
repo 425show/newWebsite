@@ -1,5 +1,50 @@
 [
     {
+        "topic": "Migrating apps from ADFS to AAD",
+        "recordingdate": "08/10/2022",
+        "expirydate":"09/09/2022",
+        "link": "https://twitter.com/i/spaces/1OdJrBXNgNvJX?s=20",
+        "summary": "David Gregory, Kyle Marsh, Jef Kazimer, and Mark Morowczynski discuss why you should move your apps from ADFS to AAD, how to best approach it, and finally turning off ADFS entirely!",
+        "links": [
+            
+            {
+            "linktext": "Links shared by @JefTek on Twitter during show",
+            "linkurl": "https://twitter.com/markmorow/status/1557396465546170370"
+            },
+            {
+            "linktext": "Identitfy which apps to move",
+            "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-application-activity"
+            },
+            {
+            "linktext": "Full set of resources for app migrations",
+            "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migration-resources"
+            },
+            {
+            "linktext": "Using Staged Rollout to migrate from ADFS to AAD auth ",
+            "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout"
+            }        
+        ],
+        "participants": [
+            {
+                "name": "David Gregory - Microsoft",
+                "link": "https://twitter.com/2BuckDave"
+            },
+            {
+                "name": "Kyle Marsh - Microsoft",
+                "link": "https://twitter.com/kylemar"
+            },
+            {
+                "name": "Mark Morowczynski - Microsoft",
+                "link": "https://twitter.com/markmorow"
+            },
+            {
+                "name": "Jef Kazimer - Microsoft",
+                "link": "https://twitter.com/jeftek"
+            }
+           
+        ]
+    },
+    {
         "topic": "Upgrading Azure AD Connect v1 to v2/AAD Connect Cloud Sync",
         "recordingdate": "08/03/2022",
         "expirydate":"09/02/2022",
