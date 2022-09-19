@@ -1,5 +1,69 @@
 [
     {
+        "recordingdate": "09/14/2022",
+        "topic": "Secure user experience with macOS and Linux",
+        "expirydate":"09/14/2023",
+        "link": "https://twitter.com/i/spaces/1BRJjZpbqDjJw?s=20",
+        "summary": "Michael Epping, Jef Kazimer, Mark Morowczynski, Bailey Bercik and Merill Fernando discuss how you can use Azure AD to secure and improve the experience for your macOS and Linux users.",
+        "links": [
+            
+            {
+            "linktext": "Links shared on Twitter during show",
+            "linkurl": "https://twitter.com/JefTek/status/1570185913535459330"
+            },
+            {
+            "linktext": "Apple SSO Extension for Azure AD",
+            "linkurl": "https://docs.microsoft.com/azure/active-directory/develop/apple-sso-plugin"
+            },
+            {
+            "linktext": "Apple SSO Extension deployment guide for Intune",
+            "linkurl": "https://docs.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-ios-ipados-macos"
+            },
+            {
+            "linktext": "Apple SSO Extension deployment guide for Jamf Pro",
+            "linkurl": "https://docs.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-ios-ipados-macos-with-jamf-pro"
+            },
+            {
+            "linktext": "Linux desktop compliance with Intune",
+            "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/microsoft-endpoint-manager-adds-management-and-compliance-checks/ba-p/2902346"
+            },
+            {
+            "linktext": "Azure Linux server login w/ Azure AD and SSH",
+            "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux"
+            },
+            {
+            "linktext": "Arc Linux server login w/ Azure AD and SSH",
+            "linkurl": "https://docs.microsoft.com/en-us/azure/azure-arc/servers/ssh-arc-overview"
+            },            
+            {
+            "linktext": "Full deep dive session (Defcon Blue Team Village Mark/Michael)",
+            "linkurl": "https://www.youtube.com/watch?v=wjRgnCWI4GE&list=PLvQcui-UIwfR2qFI2GKmCHSaYIxI-bkce&index=4"
+            }
+        ],
+        "participants": [
+            {
+                "name": "Michael Epping - Microsoft",
+                "link": "https://twitter.com/@_michaelepping"
+            },
+            {
+                "name": "Mark Morowczynski - Microsoft",
+                "link": "https://twitter.com/markmorow"
+            },
+            {
+                "name": "Jef Kazimer - Microsoft",
+                "link": "https://twitter.com/jeftek"
+            },
+            {
+                "name": "Bailey Bercik - Microsoft",
+                "link": "https://twitter.com/BaileyBercik"
+            },
+            {
+                "name": "Merill Fernando - Microsoft",
+                "link": "https://twitter.com/merill"
+            }           
+        ]
+    },    
+    {
         "topic": "Migrating apps from ADFS to AAD",
         "recordingdate": "08/10/2022",
         "expirydate":"09/09/2022",
