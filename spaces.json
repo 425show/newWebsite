@@ -1,5 +1,76 @@
 [
     {
+        "recordingdate": "09/28/2022",
+        "topic": "Audience Q&A",
+        "expirydate":"09/28/2023",
+        "link": "https://twitter.com/i/spaces/1lPKqBNMrkQGb?s=20",
+        "summary": "This week Jef Kazimer, Bailey Bercik and Merill Fernando are answering your questions and this week was all about authentication! Including number matching, Identity Protection risk detection, types of MFA and more!",
+        "links": [
+            {
+                "linktext": "Microsoft Ignite Identity Sessions",
+                "linkurl": "https://aka.ms/idignite"
+            },    
+            {
+                "linktext": "Links shared on Twitter during show",
+                "linkurl": "https://twitter.com/BaileyBercik/status/1575259096898744321?s=20&t=XDvluZ2YRO-AGQHMc7F0Zg"
+            },
+            {
+                "linktext": "How to use additional context in Microsoft Authenticator notifications (Preview) - Authentication methods policy",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-additional-context"
+            },
+            {
+                "linktext": "Meet multifactor authentication requirements of memorandum 22-09",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/standards/memo-22-09-multi-factor-authentication"
+            },
+            {
+                "linktext": "Best practice when working with Azure AD | Jamf Blog",
+                "linkurl": "https://www.jamf.com/blog/azure-ad-conditional-access-jnuc2022/"
+            },
+            {
+                "linktext": "Azure AD Connect Configuration Documenter",
+                "linkurl": "https://github.com/microsoft/AADConnectConfigDocumenter"
+            },
+            {
+                "linktext": "How to use number matching in multifactor authentication (MFA) notifications (Preview) - Authentication methods policy",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match"
+            },            
+            {
+                "linktext": "Identity Protection: List of risk detections",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#premium-sign-in-risk-detections"
+            },
+            {
+                "linktext": "How To: Investigate risk",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk"
+            },
+            {
+                "linktext": "What are custom security attributes in Azure AD?",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/custom-security-attributes-overview"
+            },
+            {
+                "linktext": "Azure AD Exporter",
+                "linkurl": "https://github.com/microsoft/azureadexporter"
+            },
+            {
+                "linktext": "Announcing public preview of SSO and passwordless authentication for Azure Virtual Desktop",
+                "linkurl": "https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/announcing-public-preview-of-sso-and-passwordless-authentication/ba-p/3638244"
+            }
+        ],
+        "participants": [
+            {
+                "name": "Jef Kazimer - Microsoft",
+                "link": "https://twitter.com/jeftek"
+            },
+            {
+                "name": "Bailey Bercik - Microsoft",
+                "link": "https://twitter.com/BaileyBercik"
+            },
+            {
+                "name": "Merill Fernando - Microsoft",
+                "link": "https://twitter.com/merill"
+            }           
+        ]
+    },
+    {
         "recordingdate": "09/14/2022",
         "topic": "Secure user experience with macOS and Linux",
         "expirydate":"09/14/2023",
