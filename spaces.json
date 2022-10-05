@@ -21,10 +21,6 @@
                 "link": "https://twitter.com/jeftek"
             },
             {
-                "name": "Etan Basseri - Microsoft",
-                "link": "https://twitter.com/ebasseri"
-            },
-            {
                 "name": "Mark Morowczynski - Microsoft",
                 "link": "https://twitter.com/markmorow"
             },
@@ -38,7 +34,7 @@
         "recordingdate": "10/14/2022",
         "topic": "Protect apps and services and secure their access to resources with Microsoft Entra Workload Identities #MSIgnite",
         "expirydate": "10/28/2023",
-        "link": "https://twitter.com/i/spaces/",
+        "link": "https://twitter.com/i/spaces/1zqKVPwEmqlJB?s=20",
         "summary": "Join Ilana Smith, Etan Basseri, Mark Morowczynski and Bailey Bercik for this special Ignite pre-show Twitter Space where you can learn more about the all new Microsoft Entra Workload identities solution that manages and secure access of apps and services to cloud resources.",
         "links": [
             {
@@ -171,6 +167,43 @@
             {
                 "name": "Merill Fernando - Microsoft",
                 "link": "https://twitter.com/merill"
+            }
+        ]
+    },
+    {
+        "recordingdate": "10/05/2022",
+        "topic": "Enabling Security Defaults in Azure AD",
+        "expirydate": "neverrrrr",
+        "link": "https://twitter.com/i/spaces/1OdKrzlyEzeKX?s=20",
+        "summary": "This week, the Security Defaults team joins us to discuss what Security Defaults is, whether you should enable it in your tenant, and the upcoming rollout to tenants who do not yet have it turned on.",
+        "links": [
+            {
+                "linktext": "Introducing Security Defaults",
+                "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-security-defaults/ba-p/1061414"
+            },
+            {
+                "linktext": "Security Defaults Rollout",
+                "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/raising-the-baseline-security-for-all-organizations-in-the-world/ba-p/3299048"
+            }
+            ,
+            {
+                "linktext": "Security Defaults Documentation",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults"
+            }
+        ],
+        "participants": [
+           
+            {
+                "name": "Mark Morowczynski - Microsoft",
+                "link": "https://twitter.com/markmorow"
+            },
+            {
+                "name": "Bailey Bercik - Microsoft",
+                "link": "https://twitter.com/BaileyBercik"
+            },
+            {
+                "name": "Jef Kazimer - Microsoft",
+                "link": "https://twitter.com/jeftek"
             }
         ]
     },
