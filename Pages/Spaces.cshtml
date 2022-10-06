@@ -7,10 +7,10 @@
 <div class="colorful-separator">
     <div class="container">
         <div class="row">
-            <div class="col-md-5" style="padding:0px 0px 50px 100px;">
+            <div class="col-md-3" style="padding:0px 0px 0px 0px;">
                 <img src="~/images/425-logo.png" alt="425 logo" height="150px" class="img-responsive" />
             </div>
-            <div class="col-md-7">
+            <div class="col-md-9">
                 <h2 class="hero-header">Identity Twitter Spaces</h2>
                 <h4 class="hero-subheader">Upcoming and archives of the Microsoft Identity Twitter Spaces</h4>
             </div>
@@ -18,9 +18,32 @@
     </div>
 </div>
 <div class="container-spaces">
+    <div class="spaces-nav">
+        @if(Model.HasUpcoming){
+            <a class="btn btn-warning" href="#upcoming">Upcoming Twitter Spaces</a>
+        }
+        <a class="btn btn-primary" href="#latest">Latest Twitter Space</a>
+        <a class="btn btn-success" role="button" href="#previous">Previous Twitter Spaces</a>
+    </div>
     <div class="container">
         @foreach (var space in Model.TwitterSpaces)
         {
+            var headerId = string.Empty;
+
+            @if(space.IsUpcomingHeader){
+                headerId = "upcoming";
+            }else{
+                if(space.IsLatest){
+                    headerId = "latest";
+                }else{
+                    if(space.IsPrevious){
+                        headerId = "previous";
+                    }
+                }
+            }
+
+            <div id="@headerId"></div>
+
             <div class="twitter-space-item" style="border-bottom: 1px solid white; padding:20px 0px">
                 <div class="row">
                     <div class="col-md-3 text-start">
@@ -36,37 +59,48 @@
                     </div>
                     <div class="col-md-9 text-start">
                         <h4 class="">
-                            <a href="@space.Link">Listen Now</a>
+                            @if (@space.IsUpcoming)
+                            {
+                                <i class="bi bi-alarm"></i>
+
+                                <a href="@space.Link">Set Reminder</a>
+                            }
+                            else
+                            {
+                                <i class="bi bi-play-btn"></i>
+                                <a href="@space.Link">Listen Now</a>
+                            }
                         </h4>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-3 text-start">
-                        <h4 class="fw-bold">Recording Date:</h4>
+                        @if(space.IsUpcoming){
+                            <h4 class="fw-bold">Scheduled Date:</h4>
+                        }
+                        else{
+                            <h4 class="fw-bold">Recording Date:</h4>
+                        }
+                        
                     </div>
                     <div class="col-md-9 text-start">
                         <h4 class="">@space.StartDate.Date.ToShortDateString()</h4>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-3 text-start">
-                        <h4 class="fw-bold">Expiry Date:</h4>
-                    </div>
-                    <div class="col-md-9 text-start">
-                        <h4 class="">
-                            @if (space.StartDate.Date < DateTime.Parse("06/30/2022"))
-                            {
+                @if (string.IsNullOrEmpty(space.RecordingDate) || space.StartDate.Date < DateTime.Parse("06/30/2022"))
+                {
+                    <div class="row">
+                        <div class="col-md-3 text-start">
+                            <h4 class="fw-bold">Expiry Date:</h4>
+                        </div>
+                        <div class="col-md-9 text-start">
+                            <h4 class="">
                                 @space.EndDate.Date.ToShortDateString()
                                 <span class="" style="color:red">(Expired)</span>
-                            }
-                            else
-                            {
-                                <span class="">(Does Not Expire :D)</span>
-
-                            }
-                        </h4>
+                            </h4>
+                        </div>
                     </div>
-                </div>
+                }
                 <div class="row">
                     <div class="col-md-3 text-start">
                         <h4 class="fw-bold">Summary:</h4>
