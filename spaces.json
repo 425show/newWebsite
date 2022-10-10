@@ -2,7 +2,6 @@
     {
         "recordingdate": "10/19/2022",
         "topic": "Balance productivity and security across apps with identity governance #MSIgnite",
-        "expirydate": "10/28/2023",
         "link": "https://twitter.com/i/spaces/1dRKZMwmWPAxB",
         "summary": "Join Mark Wahl, Jef Kazimer, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space to learn Learn how Microsoft Entra Identity Governance enhances both security and user productivity for all your apps including on-premises and multi-cloud.",
         "links": [
@@ -44,7 +43,7 @@
         ],
         "participants": [
             {
-                "name": "Libby Brown- Microsoft",
+                "name": "Libby Brown - Microsoft",
                 "link": "https://twitter.com/TruBluDevil"
             },
             {
@@ -150,11 +149,11 @@
         "participants": [
             {
                 "name": "Steve Ball - Microsoft",
-                "link": "https://twitter.com/"
+                "link": "https://twitter.com/llabevets"
             },
             {
-                "name": "Mrudula Gaidhani - Microsoft",
-                "link": "https://twitter.com/"
+              "name": "Mrudula Gaidhani - Microsoft",
+              "link": "https://twitter.com/MrudulaGaidhani"
             },
             {
                 "name": "Mark Morowczynski - Microsoft",

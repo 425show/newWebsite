@@ -58,10 +58,20 @@ public class TwitterSpace
             return DateTimeOffset.Parse(RecordingDate);
         }
     }
-
+    public bool IsUpcoming
+    {
+        get
+        {
+            return StartDate.Date > DateTime.Today.Date;
+        }
+    }
     public DateTimeOffset EndDate{
         get {
             return DateTimeOffset.Parse(ExpiryDate);
         }
     }
+
+    public bool IsLatest { get; internal set; }
+    public bool IsPrevious { get; internal set; }
+    public bool IsUpcomingHeader { get; internal set; }
 }

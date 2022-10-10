@@ -275,3 +275,12 @@ a {
   border-bottom: 12px solid;
   border-image: linear-gradient(to right, rgb(94, 190, 97) 25%, rgb(206, 150, 249) 25%, rgb(206, 150, 249) 50%, rgb(92, 226, 249) 50%, rgb(92, 226, 249) 75%, rgb(88, 48, 255) 75%) 4 / 1 / 0 stretch;
 }
+
+.spaces-nav{
+    text-align: center;
+}
+
+.spaces-nav button{
+    margin-left: 20px;
+    margin-right: 20px;
+}
