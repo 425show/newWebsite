@@ -82,6 +82,10 @@
                 "link": "https://twitter.com/ebasseri"
             },
             {
+                "name": " Stefan van der Wiele - Microsoft",
+                "link": "https://twitter.com/wiele"
+            },
+            {
                 "name": "Mark Morowczynski - Microsoft",
                 "link": "https://twitter.com/markmorow"
             },
@@ -174,11 +178,43 @@
         "topic": "Migrating ADFS apps to Azure AD #MSIgnite",
         "expirydate": "10/28/2023",
         "link": "https://twitter.com/i/spaces/1gqGvyLnqdjKB",
-        "summary": "Join David Gregory, Mark Morowczynski, Bailey Bercik and Merill Fernando for this special Ignite Twitter Space to find out how you can plan and execute your migration away from ADFS Azure Active Directory",
+        "summary": "Join David Gregory, Mark Morowczynski, Jorge Lopez and Merill Fernando for this special Ignite Twitter Space to find out how you can plan and execute your migration away from ADFS Azure Active Directory",
         "links": [
             {
                 "linktext": "Migrating ADFS apps to Azure AD - Ignite Session",
                 "linkurl": "https://ignite.microsoft.com/sessions/56b18247-a311-4b8f-8397-486b9ab30e68"
+            },
+            {
+                "linktext": "Twitter thread for this Space",
+                "linkurl": "https://twitter.com/merill/status/1580320705279062016?s=20&t=GqtMzJB529D1uYwNZrR5fQ"
+            },
+            {
+                "linktext": "ADFS Survey - Let us know if you need new features here",
+                "linkurl": "https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR4H46q_PcJ5PqZ5U5zJ5CExUREhFNUU1UFFWMTdWVk1SWUU4WDBWVFdEOC4u"
+            },
+            {
+                "linktext": "Resources for migrating applications to Azure Active Directory",
+                "linkurl": "https://learn.microsoft.com/azure/active-directory/manage-apps/migration-resources"
+            },
+            {
+                "linktext": "Monitor AD FS using Azure AD Connect Health",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-adfs"
+            },
+            {
+                "linktext": "Review the ADFS application activity report",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-application-activity"
+            },
+            {
+                "linktext": "Migrate to cloud authentication using Staged Rollout",
+                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout"
+            },
+            {
+                "linktext": "PowerShell Script: Bulk create SAML based Azure AD Gallery enterprise applications in Azure AD",
+                "linkurl": "https://github.com/orgs/msgraph/discussions/57"
+            },
+            {
+                "linktext": "PowerShell Script: Bulk create non-gallery SAML based enterprise applications in Azure AD",
+                "linkurl": "https://github.com/orgs/msgraph/discussions/56"
             }
         ],
         "participants": [
@@ -191,8 +227,8 @@
                 "link": "https://twitter.com/markmorow"
             },
             {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
+                "name": "Jorge Lopez - Microsoft",
+                "link": "https://twitter.com/JorgeALopez"
             },
             {
                 "name": "Merill Fernando - Microsoft",
