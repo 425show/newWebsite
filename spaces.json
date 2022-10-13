@@ -1,1151 +1,1118 @@
-[
-    {
-        "recordingdate": "10/19/2022",
-        "topic": "Balance productivity and security across apps with identity governance #MSIgnite",
-        "link": "https://twitter.com/i/spaces/1dRKZMwmWPAxB",
-        "summary": "Join Mark Wahl, Jef Kazimer, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space to learn Learn how Microsoft Entra Identity Governance enhances both security and user productivity for all your apps including on-premises and multi-cloud.",
-        "links": [
-            {
-                "linktext": "Balance productivity and security across apps with identity governance - Ignite Session",
-                "linkurl": "https://ignite.microsoft.com/en-US/sessions/eaa7479f-0b48-41b7-af0d-e090c90c142d"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Mark Wahl - Microsoft",
-                "link": "https://twitter.com/markwahl"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            }
-        ]
-    },
-    {
-        "recordingdate": "10/14/2022",
-        "topic": "Deploying Passwordless: Hello For Business & FIDO2 #MSIgnite",
-        "expirydate": "10/28/2023",
-        "link": "https://twitter.com/i/spaces/1yNxaNjpoXvKj",
-        "summary": "Join Libby Brown, Charity Shelbourne, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space discussing the latest on Passwordless deployments including the new Hello For Business Cloud Kerberos Trust and what you should be doing right now!",
-        "links": [
-            {
-                "linktext": "Microsoft Entra Workload Identities - Ignite Session",
-                "linkurl": "https://ignite.microsoft.com/sessions/d73bea57-63bb-4ea0-b030-9001e8cdf1c5"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Libby Brown - Microsoft",
-                "link": "https://twitter.com/TruBluDevil"
-            },
-            {
-                "name": "Charity Shelbourne - Microsoft",
-                "link": "https://twitter.com/authgal"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            }
-        ]
-    },
-    {
-        "recordingdate": "10/14/2022",
-        "topic": "Protect apps and services and secure their access to resources with Microsoft Entra Workload Identities #MSIgnite",
-        "expirydate": "10/28/2023",
-        "link": "https://twitter.com/i/spaces/1zqKVPwEmqlJB?s=20",
-        "summary": "Join Ilana Smith, Etan Basseri, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space where you can learn more about the all new Microsoft Entra Workload identities solution that manages and secure access of apps and services to cloud resources.",
-        "links": [
-            {
-                "linktext": "Microsoft Entra Workload Identities - Ignite Session",
-                "linkurl": "https://ignite.microsoft.com/sessions/d73bea57-63bb-4ea0-b030-9001e8cdf1c5"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Ilana Smith - Microsoft",
-                "link": "https://twitter.com/ilanas"
-            },
-            {
-                "name": "Etan Basseri - Microsoft",
-                "link": "https://twitter.com/ebasseri"
-            },
-            {
-                "name": " Stefan van der Wiele - Microsoft",
-                "link": "https://twitter.com/wiele"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            }
-        ]
-    },
-    {
-        "recordingdate": "10/13/2022",
-        "topic": "Zero Trust as Business Driver: 3 Discrete Scenarios #MSIgnite",
-        "expirydate": "10/28/2023",
-        "link": "https://twitter.com/i/spaces/1djxXlbpgBExZ",
-        "summary": "Join Mark Simos, Clay Taylor, Caleb Baker, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space where they share three key business scenarios where implementing a Zero Trust architecture is not only a security priority, but a driver of business results.",
-        "links": [
-            {
-                "linktext": "Zero Trust as Business Driver: 3 Discrete Scenarios - Ignite Session",
-                "linkurl": "https://ignite.microsoft.com/en-US/sessions/9974d5a2-b241-4ede-ab2d-c2cd1b7a83be"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Mark Simos - Microsoft",
-                "link": "https://twitter.com/MarkSimos"
-            },
-            {
-                "name": "Nitika Gupta - Microsoft",
-                "link": "https://twitter.com/_nitika_gupta"
-            },
-            {
-                "name": "Clay Taylor - Microsoft",
-                "link": "https://twitter.com/cxp_ems_clay"
-            },
-            {
-                "name": "Caleb Baker - Microsoft",
-                "link": "https://twitter.com/Caleb_B"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Merill Fernando - Microsoft",
-                "link": "https://twitter.com/merill"
-            }
-        ]
-    },
-    {
-        "recordingdate": "10/13/2022",
-        "topic": "How to achieve zero standing privileges in multicloud #MSIgnite",
-        "expirydate": "10/28/2023",
-        "link": "https://twitter.com/i/spaces/1nAKErPyRqRGL",
-        "summary": "Join Steve Ball, Mrudula Gaidhani, Mark Morowczynski, Bailey Bercik and Merill Fernando for this special Ignite Twitter Space to learn how you can Microsoft Entra Permissions Management you to discover, remediate, and monitor permissions risks across public clouds.",
-        "links": [
-            {
-                "linktext": "How to achieve zero standing privileges in multicloud - Ignite Session",
-                "linkurl": "https://ignite.microsoft.com/sessions/d6603050-03c3-4be4-97b1-c4ad03b4b74e"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Steve Ball - Microsoft",
-                "link": "https://twitter.com/llabevets"
-            },
-            {
-              "name": "Mrudula Gaidhani - Microsoft",
-              "link": "https://twitter.com/MrudulaGaidhani"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Merill Fernando - Microsoft",
-                "link": "https://twitter.com/merill"
-            }
-        ]
-    },
-    {
-        "recordingdate": "10/12/2022",
-        "topic": "Migrating ADFS apps to Azure AD #MSIgnite",
-        "expirydate": "10/28/2023",
-        "link": "https://twitter.com/i/spaces/1gqGvyLnqdjKB",
-        "summary": "Join David Gregory, Mark Morowczynski, Jorge Lopez and Merill Fernando for this special Ignite Twitter Space to find out how you can plan and execute your migration away from ADFS Azure Active Directory",
-        "links": [
-            {
-                "linktext": "Migrating ADFS apps to Azure AD - Ignite Session",
-                "linkurl": "https://ignite.microsoft.com/sessions/56b18247-a311-4b8f-8397-486b9ab30e68"
-            },
-            {
-                "linktext": "Twitter thread for this Space",
-                "linkurl": "https://twitter.com/merill/status/1580320705279062016?s=20&t=GqtMzJB529D1uYwNZrR5fQ"
-            },
-            {
-                "linktext": "ADFS Survey - Let us know if you need new features here",
-                "linkurl": "https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR4H46q_PcJ5PqZ5U5zJ5CExUREhFNUU1UFFWMTdWVk1SWUU4WDBWVFdEOC4u"
-            },
-            {
-                "linktext": "Resources for migrating applications to Azure Active Directory",
-                "linkurl": "https://learn.microsoft.com/azure/active-directory/manage-apps/migration-resources"
-            },
-            {
-                "linktext": "Monitor AD FS using Azure AD Connect Health",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-adfs"
-            },
-            {
-                "linktext": "Review the ADFS application activity report",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-application-activity"
-            },
-            {
-                "linktext": "Migrate to cloud authentication using Staged Rollout",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout"
-            },
-            {
-                "linktext": "PowerShell Script: Bulk create SAML based Azure AD Gallery enterprise applications in Azure AD",
-                "linkurl": "https://github.com/orgs/msgraph/discussions/57"
-            },
-            {
-                "linktext": "PowerShell Script: Bulk create non-gallery SAML based enterprise applications in Azure AD",
-                "linkurl": "https://github.com/orgs/msgraph/discussions/56"
-            }
-        ],
-        "participants": [
-            {
-                "name": "David Gregory - Microsoft",
-                "link": "https://twitter.com/2BuckDave"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jorge Lopez - Microsoft",
-                "link": "https://twitter.com/JorgeALopez"
-            },
-            {
-                "name": "Merill Fernando - Microsoft",
-                "link": "https://twitter.com/merill"
-            }
-        ]
-    },
-    {
-        "recordingdate": "10/05/2022",
-        "topic": "Enabling Security Defaults in Azure AD",
-        "expirydate": "neverrrrr",
-        "link": "https://twitter.com/BaileyBercik/status/1577690114146566145",
-        "summary": "This week, the Security Defaults team joins us to discuss what Security Defaults is, whether you should enable it in your tenant, and the upcoming rollout to tenants who do not yet have it turned on.",
-        "links": [
-            {
-                "linktext": "Introducing Security Defaults",
-                "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-security-defaults/ba-p/1061414"
-            },
-            {
-                "linktext": "Security Defaults Rollout",
-                "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/raising-the-baseline-security-for-all-organizations-in-the-world/ba-p/3299048"
-            }
-            ,
-            {
-                "linktext": "Security Defaults Documentation",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults"
-            }
-        ],
-        "participants": [
-           
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "recordingdate": "09/28/2022",
-        "topic": "Audience Q&A",
-        "expirydate": "09/28/2023",
-        "link": "https://twitter.com/i/spaces/1lPKqBNMrkQGb?s=20",
-        "summary": "This week Jef Kazimer, Bailey Bercik and Merill Fernando are answering your questions and this week was all about authentication! Including number matching, Identity Protection risk detection, types of MFA and more!",
-        "links": [
-            {
-                "linktext": "Microsoft Ignite Identity Sessions",
-                "linkurl": "https://aka.ms/idignite"
-            },
-            {
-                "linktext": "Links shared on Twitter during show",
-                "linkurl": "https://twitter.com/BaileyBercik/status/1575259096898744321?s=20&t=XDvluZ2YRO-AGQHMc7F0Zg"
-            },
-            {
-                "linktext": "How to use additional context in Microsoft Authenticator notifications (Preview) - Authentication methods policy",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-additional-context"
-            },
-            {
-                "linktext": "Meet multifactor authentication requirements of memorandum 22-09",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/standards/memo-22-09-multi-factor-authentication"
-            },
-            {
-                "linktext": "Best practice when working with Azure AD | Jamf Blog",
-                "linkurl": "https://www.jamf.com/blog/azure-ad-conditional-access-jnuc2022/"
-            },
-            {
-                "linktext": "Azure AD Connect Configuration Documenter",
-                "linkurl": "https://github.com/microsoft/AADConnectConfigDocumenter"
-            },
-            {
-                "linktext": "How to use number matching in multifactor authentication (MFA) notifications (Preview) - Authentication methods policy",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match"
-            },
-            {
-                "linktext": "Identity Protection: List of risk detections",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#premium-sign-in-risk-detections"
-            },
-            {
-                "linktext": "How To: Investigate risk",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk"
-            },
-            {
-                "linktext": "What are custom security attributes in Azure AD?",
-                "linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/custom-security-attributes-overview"
-            },
-            {
-                "linktext": "Azure AD Exporter",
-                "linkurl": "https://github.com/microsoft/azureadexporter"
-            },
-            {
-                "linktext": "Announcing public preview of SSO and passwordless authentication for Azure Virtual Desktop",
-                "linkurl": "https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/announcing-public-preview-of-sso-and-passwordless-authentication/ba-p/3638244"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Merill Fernando - Microsoft",
-                "link": "https://twitter.com/merill"
-            }
-        ]
-    },
-    {
-        "recordingdate": "09/14/2022",
-        "topic": "Secure user experience with macOS and Linux",
-        "expirydate": "09/14/2023",
-        "link": "https://twitter.com/i/spaces/1BRJjZpbqDjJw?s=20",
-        "summary": "Michael Epping, Jef Kazimer, Mark Morowczynski, Bailey Bercik and Merill Fernando discuss how you can use Azure AD to secure and improve the experience for your macOS and Linux users.",
-        "links": [
-            {
-                "linktext": "Links shared on Twitter during show",
-                "linkurl": "https://twitter.com/JefTek/status/1570185913535459330"
-            },
-            {
-                "linktext": "Apple SSO Extension for Azure AD",
-                "linkurl": "https://docs.microsoft.com/azure/active-directory/develop/apple-sso-plugin"
-            },
-            {
-                "linktext": "Apple SSO Extension deployment guide for Intune",
-                "linkurl": "https://docs.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-ios-ipados-macos"
-            },
-            {
-                "linktext": "Apple SSO Extension deployment guide for Jamf Pro",
-                "linkurl": "https://docs.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-ios-ipados-macos-with-jamf-pro"
-            },
-            {
-                "linktext": "Linux desktop compliance with Intune",
-                "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/microsoft-endpoint-manager-adds-management-and-compliance-checks/ba-p/2902346"
-            },
-            {
-                "linktext": "Azure Linux server login w/ Azure AD and SSH",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux"
-            },
-            {
-                "linktext": "Arc Linux server login w/ Azure AD and SSH",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/azure-arc/servers/ssh-arc-overview"
-            },
-            {
-                "linktext": "Full deep dive session (Defcon Blue Team Village Mark/Michael)",
-                "linkurl": "https://www.youtube.com/watch?v=wjRgnCWI4GE&list=PLvQcui-UIwfR2qFI2GKmCHSaYIxI-bkce&index=4"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Michael Epping - Microsoft",
-                "link": "https://twitter.com/@_michaelepping"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Merill Fernando - Microsoft",
-                "link": "https://twitter.com/merill"
-            }
-        ]
-    },
-    {
-        "topic": "Migrating apps from ADFS to AAD",
-        "recordingdate": "08/10/2022",
-        "expirydate": "09/09/2022",
-        "link": "https://twitter.com/i/spaces/1OdJrBXNgNvJX?s=20",
-        "summary": "David Gregory, Kyle Marsh, Jef Kazimer, and Mark Morowczynski discuss why you should move your apps from ADFS to AAD, how to best approach it, and finally turning off ADFS entirely!",
-        "links": [
-            {
-                "linktext": "Links shared by @JefTek on Twitter during show",
-                "linkurl": "https://twitter.com/markmorow/status/1557396465546170370"
-            },
-            {
-                "linktext": "Identitfy which apps to move",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-application-activity"
-            },
-            {
-                "linktext": "Full set of resources for app migrations",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migration-resources"
-            },
-            {
-                "linktext": "Using Staged Rollout to migrate from ADFS to AAD auth ",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout"
-            }
-        ],
-        "participants": [
-            {
-                "name": "David Gregory - Microsoft",
-                "link": "https://twitter.com/2BuckDave"
-            },
-            {
-                "name": "Kyle Marsh - Microsoft",
-                "link": "https://twitter.com/kylemar"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "Upgrading Azure AD Connect v1 to v2/AAD Connect Cloud Sync",
-        "recordingdate": "08/03/2022",
-        "expirydate": "09/02/2022",
-        "link": "https://twitter.com/i/spaces/1gqxvlQDPBWGB?s=20",
-        "summary": "Rob de Jong, Daniel Birmingham, Bailey Bercik, Jef Kazimer, and Mark Morowczynski discuss upgrading off of Azure AD Connect v1",
-        "links": [
-            {
-                "linktext": "Links shared by @JefTek on Twitter during show",
-                "linkurl": "https://twitter.com/markmorow/status/1554965386121990145?s=20&t=507PmLNZXXKD7EbPt84FYw"
-            },
-            {
-                "linktext": "Upgrading Azure AD Connect Swing Migration",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version"
-            },
-            {
-                "linktext": "Azure AD Connect Config Documenter",
-                "linkurl": "https://github.com/Microsoft/AADConnectConfigDocumenter"
-            },
-            {
-                "linktext": "Running Azure AD Connect Cloud Sync with Azure AD Connect ",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Rob de Jong - Microsoft",
-                "link": "https://twitter.com/rjong999"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "Identity PowerShell",
-        "recordingdate": "07/20/2022",
-        "expirydate": "08/19/2022",
-        "link": "https://twitter.com/i/spaces/1OyKADDjBnOxb?s=20",
-        "summary": "Adam Edwards, Merill Fernando, Jef Kazimer, Bailey Bercik and Mark Morowczynski discuss using PowerShell with Microsoft Graph",
-        "links": [
-            {
-                "linktext": "Links shared by @BaileyBercik on Twitter during show",
-                "linkurl": "https://twitter.com/BaileyBercik/status/1549895445106663428"
-            },
-            {
-                "linktext": "Blog Announcement",
-                "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/update-your-applications-to-use-microsoft-authentication-library/ba-p/1257363"
-            },
-            {
-                "linktext": "Microsoft Graph PowerShell overview",
-                "linkurl": "https://docs.microsoft.com/en-us/powershell/microsoftgraph/overview?view=graph-powershell-1.0"
-            },
-            {
-                "linktext": "Find Azure and MSOnline cmdlets in Graph PowerShell",
-                "linkurl": "https://docs.microsoft.com/en-us/powershell/microsoftgraph/azuread-msoline-cmdlet-map?view=graph-powershell-1.0"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Adam Edwards - Microsoft",
-                "link": "https://twitter.com/adamedx"
-            },
-            {
-                "name": "Merill Fernando - Microsoft",
-                "link": "https://twitter.com/merill"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "Workload Identities",
-        "recordingdate": "07/12/2022",
-        "expirydate": "08/12/2022",
-        "link": "https://twitter.com/i/spaces/1YqKDqqrMdVGV?s=20",
-        "summary": "John Patrick Dandison, Jef Kazimer, and Mark Morowczynski discuss Workload Identities",
-        "links": [
-            {
-                "linktext": "Links shared by @markmorow on Twitter during show",
-                "linkurl": "https://twitter.com/markmorow/status/1547251745968963586?s=20&t=kqL28oBlP3WXY-xUc8o8LQ"
-            },
-            {
-                "linktext": "Blog Announcement",
-                "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/managing-governing-and-securing-identities-for-apps-and-services/ba-p/3402816"
-            },
-            {
-                "linktext": "Workload Identities discussed at SANS CloudSecNext 2022",
-                "linkurl": "https://www.youtube.com/watch?v=o39NhfCweBc"
-            },
-            {
-                "linktext": "Securing & Monitoring Workload Identities",
-                "linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/learn-how-to-secure-and-monitor-workload-identities-with-a/ba-p/2810640"
-            }
-        ],
-        "participants": [
-            {
-                "name": "John Patrick Dandison - Microsoft",
-                "link": "https://twitter.com/jpda__"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "Identity Open Standards",
-        "recordingdate": "06/29/2022",
-        "expirydate": "07/29/2022",
-        "link": "https://twitter.com/i/spaces/1yoKMWXoXboJQ?s=20",
-        "summary": "Pam Dingle, Kristina Yasuda, Pieter Kasselman and Tim Cappalli discuss the importance of open standardds in identity, why they matter to you and what you should be focusing on.",
-        "links": [
-            {
-                "linktext": "Links shared by @BaileyBercik on Twitter during show",
-                "linkurl": "https://twitter.com/BaileyBercik/status/1542176938663415808?s=20&t=bBfsFq8ZKDUFmHgAh78MQA"
-            },
-            {
-                "linktext": "OAuth 2 RFC Link Tree",
-                "linkurl": "https://linktr.ee/oauth2"
-            },
-            {
-                "linktext": "Decentralized Identity Link Tree",
-                "linkurl": "https://linktr.ee/decentralizedidentity"
-            },
-            {
-                "linktext": "Identity Standards Blog",
-                "linkurl": "https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Pam Dingle - Microsoft",
-                "link": "https://twitter.com/pamelarosiedee"
-            },
-            {
-                "name": "Kristina Yasuda - Microsoft",
-                "link": "https://twitter.com/kristinayasuda"
-            },
-            {
-                "name": "Pieter Kasselman - Microsoft",
-                "link": "https://twitter.com/PieterKasselman"
-            },
-            {
-                "name": "Tim Cappalli - Microsoft",
-                "link": "https://twitter.com/timcappalli"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "Exchange Online Basic Authentication Deprecation",
-        "recordingdate": "06/15/2022",
-        "expirydate": "07/15/2022",
-        "link": "https://twitter.com/i/spaces/1gqxvlEvAWpGB",
-        "summary": "Greg Taylor from the Exchange team discusses the upcoming deprecation of basic authentication and what you should do to prepare if you haven't started already.",
-        "links": [
-            {
-                "linktext": "Links shared by @MarkMorow on Twitter during show",
-                "linkurl": "https://twitter.com/markmorow/status/1537103943632769026"
-            },
-            {
-                "linktext": "How do you know if your users will be impacted?",
-                "linkurl": "https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online#how-do-you-know-if-your-users-will-be-impacted"
-            },
-            {
-                "linktext": "Azure AD Workbook to look for basic authentication",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/workbook-legacy%20authentication"
-            },
-            {
-                "linktext": "Exchange Basic Auth Update May 2022",
-                "linkurl": "https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-deprecation-in-exchange-online-may-2022/ba-p/3301866"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Greg Taylor - Microsoft",
-                "link": "https://twitter.com/Gregtaylor_msft"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "Governance QnA w/Microsoft Identity Product Group #MicrosoftIdentityPGChat",
-        "recordingdate": "04/20/2022",
-        "expirydate": "05/20/2022",
-        "link": "https://twitter.com/i/spaces/1RDGlgngBRzKL",
-        "summary": "Open Question and Answer from the audience with governance topics including Entitlement Managment, Access Reviews, and PIM",
-        "links": [
-            {
-                "linktext": "Links shared by @MarkMorow on Twitter during show",
-                "linkurl": "https://twitter.com/markmorow/status/1516809485276237824"
-            },
-            {
-                "linktext": "Getting Started with Governance",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/governance/"
-            },
-            {
-                "linktext": "The New Governance Wizard to get you started on why and how!",
-                "linkurl": "https://portal.office.com/adminportal/home?#/identitygovernance"
-            },
-            {
-                "linktext": "Additional Identity Governance events and resources",
-                "linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/make-azure-ad-identity-governance-work-for-you/ba-p/2810643"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Christos Matskas - Microsoft",
-                "link": "https://twitter.com/christosmatskas"
-            },
-            {
-                "name": "Shannon Kuehn - Microsoft",
-                "link": "https://twitter.com/shankuehn"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "Open QnA w/Microsoft Identity Product Group #MicrosoftIdentityPGChat",
-        "recordingdate": "04/04/2022",
-        "expirydate": "05/03/2022",
-        "link": "https://twitter.com/i/spaces/1nAKEYekWmgKL",
-        "summary": "Open Question and Answer from the audience with topics including Conditional Access, CloudKnox Permissions management, and Passwordless for Chromebooks",
-        "links": [
-            {
-                "linktext": "Links shared by @BaileyBercik on Twitter during show",
-                "linkurl": "https://twitter.com/BaileyBercik/status/1511736492149813249"
-            },
-            {
-                "linktext": "ThreadReaderApp of links shared during show",
-                "linkurl": "https://threadreaderapp.com/thread/1511736492149813249.html"
-            },
-            {
-                "linktext": "CloudKnox Permission Management Public Preview",
-                "linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/cloudknox-permissions-management-is-now-in-public-preview/ba-p/2464391"
-            },
-            {
-                "linktext": "Hybrid Cloud Trust Deployment (Preview)",
-                "linkurl": "https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-cloud-trust"
-            },
-            {
-                "linktext": "Conditional Access Policy templates",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common#conditional-access-templates-preview"
-            },
-            {
-                "linktext": "Introducing Azure AD custom security attributes",
-                "linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/introducing-azure-ad-custom-security-attributes/ba-p/2147068"
-            },
-            {
-                "linktext": "Browser support of FIDO2 passwordless authentication - Now with ChromeOS support!",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/authentication/fido2-compatibility"
-            },
-            {
-                "linktext": "Microsoft Enterprise SSO plug-in for Apple devices (preview)",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/develop/apple-sso-plugin"
-            },
-            {
-                "linktext": "What is Azure Active Directory recommendations (preview)?",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/overview-recommendations"
-            },
-            {
-                "linktext": "Free Azure AD Dev Training for IT Pros",
-                "linkurl": "https://techcommunity.microsoft.com/t5/community-events-list/line-of-business-applications-for-it-pros-check-out-our-upcoming/m-p/3105667?emcs_t=S2h8ZW1haWx8cG1fbm90aWZpY2F0aW9ufEtaNjJFMldQSENBWThCfC0xfFBSSVZBVEVfTUVTU0FHRVN8aEs"
-            },
-            {
-                "linktext": "Free Azure AD Dev Training for Devs",
-                "linkurl": "https://github.com/microsoft/AzureADGraphApps"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "KQL Q&A with Microsoft Azure AD Product Team",
-        "recordingdate": "03/16/2022",
-        "expirydate": "04/17/2022",
-        "link": "https://twitter.com/i/spaces/1LyGBojbXwMJN",
-        "summary": "KQL Q&A with Microsoft Azure AD Product Team",
-        "links": [
-            {
-                "linktext": "Must Learn KQL by Rod Trent",
-                "linkurl": "https://github.com/rod-trent/MustLearnKQL"
-            },
-            {
-                "linktext": "Splunk KQL Cheat Sheet",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/splunk-cheat-sheet"
-            },
-            {
-                "linktext": "Matt's 365 Days of KQL Repo",
-                "linkurl": "https://github.com/reprise99/Sentinel-Queries"
-            },
-            {
-                "linktext": "Additional links for more KQL resources",
-                "linkurl": "https://twitter.com/BaileyBercik/status/1504460649732005890"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Matt Zorich",
-                "link": "https://twitter.com/reprise_99"
-            },
-            {
-                "name": "Corissa Koopmans - Microsoft",
-                "link": "https://twitter.com/corissalea"
-            },
-            {
-                "name": "Mark Morowczynski - Microsoft",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik - Microsoft",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Jef Kazimer - Microsoft",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "CloudKnox Permissions Management",
-        "recordingdate": "03/09/2022",
-        "expirydate": "04/10/2022",
-        "link": "https://twitter.com/i/spaces/1djGXPZyoovGZ",
-        "summary": "QnA with the CloudKnox feature team for management entitlements in multi-cloud environments",
-        "links": [
-            {
-                "linktext": "CloudKnox Permissions Management is now in Public Preview",
-                "linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/cloudknox-permissions-management-is-now-in-public-preview/ba-p/2464391"
-            },
-            {
-                "linktext": "CloudKnox Permissions Management (Documentation)",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/"
-            },
-            {
-                "linktext": "CloudKnox Frequently asked questions (FAQs)",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/cloudknox-faqs"
-            },
-            {
-                "linktext": "CloudKnox Permissions Management training videos",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/cloudknox-training-videos"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Nick Wryter",
-                "link": "https://twitter.com/nickwryter"
-            },
-            {
-                "name": "Guruprasad Ramprakash",
-                "link": "https://twitter.com/Gururamp30"
-            },
-            {
-                "name": "Steve Ball",
-                "link": "https://twitter.com/llabevets"
-            },
-            {
-                "name": "Maya Neelakandhan",
-                "link": "https://twitter.com/Mayavk"
-            },
-            {
-                "name": "Mrudula Gaidhani",
-                "link": "https://twitter.com/MrudulaGaidhani"
-            },
-            {
-                "name": "Laura Viarengo",
-                "link": "https://twitter.com/Lauraviarengo_"
-            },
-            {
-                "name": "Mark Morowczynski",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Bailey Bercik",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Jef Kazimer",
-                "link": "https://twitter.com/jeftek"
-            }
-        ]
-    },
-    {
-        "topic": "Audience Q&A",
-        "recordingdate": "02/23/2022",
-        "expirydate": "03/25/2022",
-        "link": "https://twitter.com/i/spaces/1gqxvlRZQpjGB?s=20",
-        "summary": "This week Bailey Bercik, Jef Kazimer and Mark Morowczyski are answering your questions and this one had everything! Azure AD B2B, azure ad connect sync, developer questions and more!",
-        "links": [
-            {
-                "linktext": "Application Insights Workbooks",
-                "linkurl": "https://github.com/Microsoft/Application-Insights-Workbooks"
-            },
-            {
-                "linktext": "Azure AD Resiliency Overview",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/resilience-overview"
-            },
-            {
-                "linktext": "Workshop - Line Of Business apps for IT Pros",
-                "linkurl": "https://techcommunity.microsoft.com/t5/community-events-list/line-of-business-applications-for-it-pros-check-out-our-upcoming/m-p/3105667?emcs_t=S2h8ZW1haWx8cG1fbm90aWZpY2F0aW9ufEtaNjJFMldQSENBWThCfC0xfFBSSVZBVEVfTUVTU0FHRVN8aEs"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Mark Morowczynski",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer",
-                "link": "https://twitter.com/jeftek"
-            },
-            {
-                "name": "Bailey Bercik",
-                "link": "https://twitter.com/BaileyBercik"
-            }
-        ]
-    },
-    {
-        "topic": "Securing External Identity collaboration with Cross-Tenant Access policies",
-        "recordingdate": "02/16/2022",
-        "expirydate": "03/18/2022",
-        "link": "https://twitter.com/i/spaces/1RDGlgLZmzdKL?s=20",
-        "summary": "This week Josh Douglas, Sangeeta Ranjit, Jeff Bley and Sandeep Deo joined Bailey Bercik, Jef Kazimer and Mark Morowczyski to discuss a new Azure AD feature release, Cross-Tenant Access policies. They covered what problems customers were trying to solve with this feature, how to roll this out in a controlled manner, troubleshooting and some best practices.",
-        "links": [
-            {
-                "linktext": "Collaborate more securely with new cross-tenant access settings - Microsoft Tech Community",
-                "linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/collaborate-more-securely-with-new-cross-tenant-access-settings/ba-p/2147077"
-            },
-            {
-                "linktext": "Cross-tenant access activity workbook",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/workbook-cross-tenant-access-activity"
-            },
-            {
-                "linktext": "Cross-tenant access settings API overview",
-                "linkurl": "https://docs.microsoft.com/en-us/graph/api/resources/crosstenantaccesspolicy-overview?view=graph-rest-beta"
-            },
-            {
-                "linktext": "PowerShell - Resolve MsIdTenant",
-                "linkurl": "https://github.com/AzureAD/MSIdentityTools/wiki/Resolve-MSIDTenant"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Mark Morowczynski",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer",
-                "link": "https://twitter.com/jeftek"
-            },
-            {
-                "name": "Bailey Bercik",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Josh Douglas",
-                "link": "https://twitter.com/joshkdouglas"
-            },
-            {
-                "name": "Sangeeta Ranjit",
-                "link": "https://twitter.com/sangeeta_ranjit"
-            },
-            {
-                "name": "Jeff Bley",
-                "link": "https://twitter.com/jeff_bley"
-            },
-            {
-                "name": "Sandeep Deo",
-                "link": "https://twitter.com/MsftSandeep"
-            }
-        ]
-    },
-    {
-        "topic": "Azure AD Graph to MS Graph & ADAL to MSAL",
-        "recordingdate": "02/09/2022",
-        "expirydate": "03/11/2022",
-        "link": "https://twitter.com/markmorow/status/1491456907948675076?s=20&t=BSj8-3T-OqiZ4bh0NO1iYg",
-        "summary": "This week Kyle Marsh and Akanksha Niraliya Garg joined Bailey Bercik, Jef Kazimer and Mark Morowczyski to discuss moving your apps from AAD Graph to MS Graph including how to find those apps as well as the benefits you get. They also discussed the benefits of using the MSAL library and why customers should upgrade from ADAL and not roll their own.",
-        "links": [
-            {
-                "linktext": "FAQ on moving from Azure AD Graph to MS Graph",
-                "linkurl": "https://docs.microsoft.com/en-us/graph/migrate-azure-ad-graph-faq"
-            },
-            {
-                "linktext": "Locating Azure AD Graph Apps",
-                "linkurl": "https://github.com/microsoft/AzureADGraphApps"
-            },
-            {
-                "linktext": "Locating Apps using the ADAL library",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-get-list-of-all-active-directory-auth-library-apps"
-            },
-            {
-                "linktext": "Free Azure AD Dev Training for IT Pros",
-                "linkurl": "https://techcommunity.microsoft.com/t5/community-events-list/line-of-business-applications-for-it-pros-check-out-our-upcoming/m-p/3105667?emcs_t=S2h8ZW1haWx8cG1fbm90aWZpY2F0aW9ufEtaNjJFMldQSENBWThCfC0xfFBSSVZBVEVfTUVTU0FHRVN8aEs"
-            },
-            {
-                "linktext": "Free Azure AD Dev Training for Devs",
-                "linkurl": "https://github.com/microsoft/AzureADGraphApps"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Mark Morowczynski",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer",
-                "link": "https://twitter.com/jeftek"
-            },
-            {
-                "name": "Bailey Bercik",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Kyle Marsh",
-                "link": "https://twitter.com/kylemarsh"
-            },
-            {
-                "name": "Akanksha Niraliya Garg",
-                "link": "https://twitter.com/aksGarg"
-            }
-        ]
-    },
-    {
-        "topic": "Azure AD Connect and Cloud Sync",
-        "recordingdate": "02/02/2022",
-        "expirydate": "03/04/2022",
-        "link": "https://twitter.com/JefTek/status/1489043494543020039?s=20&t=PcmlYrigOWLISDWrw1Igzg",
-        "summary": " This week Rob de Jong and Dhanyah Krishnamoorthy joined Bailey Bercik, Jef Kazimer and Mark Morowczyski to discuss moving from Azure AD Connect V1 to V2, Azure AD Cloud Sync and what it is and what scenarios it can be used with today, and finally some best practices and running cloud sync in parallel with Azure AD Connect.",
-        "links": [
-            {
-                "linktext": "Azure AD Connect Version History",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history"
-            },
-            {
-                "linktext": "Azure AD Connect Config Documenter",
-                "linkurl": "https://github.com/Microsoft/AADConnectConfigDocumenter"
-            },
-            {
-                "linktext": "What is Azure AD Connect Cloud Sync",
-                "linkurl": " https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync"
-            },
-            {
-                "linktext": "Azure AD Connect Cloud Sync Install and Videos",
-                "linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/how-to-install"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Mark Morowczynski",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer",
-                "link": "https://twitter.com/jeftek"
-            },
-            {
-                "name": "Bailey Bercik",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Rob de Jong",
-                "link": "https://twitter.com/rjong999"
-            },
-            {
-                "name": "Dhanyah Krishnamoorthy",
-                "link": "https://twitter.com/DhanyahkMSFT"
-            }
-        ]
-    },
-    {
-        "topic": "Introduction to the Microsoft Decentralized Identity platform",
-        "recordingdate": "01/26/2022",
-        "expirydate": "02/25/2022",
-        "link": "https://twitter.com/markmorow/status/1491456907948675076?s=20&t=BSj8-3T-OqiZ4bh0NO1iYghttps://twitter.com/jeftek/status/1486402357919371267?s=21",
-        "summary": "This week Rohit Gulati, Christos Matskas and Shannon Kuehn joined Bailey Bercik, Jef Kazimer and Mark Morowczyski to discuss Microsoft's approach with Decentralized Identity, challenges and opportunities for developers and enterprises. Learn how Verifiable Credentials are about to change the world and make sure to sign up to the upcoming hackathon!",
-        "links": [
-            {
-                "linktext": "Microsoft Decentralized Identity Platform",
-                "linkurl": "https://425.show/did-blog"
-            },
-            {
-                "linktext": "Watch the DiD YouTube videos",
-                "linkurl": "https://425.show/playlist"
-            },
-            {
-                "linktext": "Microsoft Decentralized Identity Whitepaper",
-                "linkurl": "https://425.show/vcpaper"
-            },
-            {
-                "linktext": "ION - Booting up the network",
-                "linkurl": "https://425.show/blog-vcion"
-            },
-            {
-                "linktext": "Microsoft DID Hackathon",
-                "linkurl": "https://425/show/did-hackathon"
-            },
-            {
-                "linktext": "Microsoft DID Official Documentation",
-                "linkurl": "https://425.show/vcdocs"
-            }
-        ],
-        "participants": [
-            {
-                "name": "Mark Morowczynski",
-                "link": "https://twitter.com/markmorow"
-            },
-            {
-                "name": "Jef Kazimer",
-                "link": "https://twitter.com/jeftek"
-            },
-            {
-                "name": "Bailey Bercik",
-                "link": "https://twitter.com/BaileyBercik"
-            },
-            {
-                "name": "Christos Matskas",
-                "link": "https://twitter.com/christosmatskas"
-            },
-            {
-                "name": "Shannon Kuehn",
-                "link": "https://twitter.com/shankuehn"
-            },
-            {
-                "name": "Rohit Gulati",
-                "link": "https://twitter.com/MrRohitGulati"
-            }
-        ]
-    }
+[{
+		"recordingdate": "10/19/2022",
+		"topic": "Balance productivity and security across apps with identity governance #MSIgnite",
+		"link": "https://twitter.com/i/spaces/1dRKZMwmWPAxB",
+		"summary": "Join Mark Wahl, Jef Kazimer, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space to learn Learn how Microsoft Entra Identity Governance enhances both security and user productivity for all your apps including on-premises and multi-cloud.",
+		"links": [{
+			"linktext": "Balance productivity and security across apps with identity governance - Ignite Session",
+			"linkurl": "https://ignite.microsoft.com/en-US/sessions/eaa7479f-0b48-41b7-af0d-e090c90c142d"
+		}],
+		"participants": [{
+				"name": "Mark Wahl - Microsoft",
+				"link": "https://twitter.com/markwahl"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			}
+		]
+	},
+	{
+		"recordingdate": "10/14/2022",
+		"topic": "Deploying Passwordless: Hello For Business & FIDO2 #MSIgnite",
+		"expirydate": "10/28/2023",
+		"link": "https://twitter.com/i/spaces/1yNxaNjpoXvKj",
+		"summary": "Join Libby Brown, Charity Shelbourne, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space discussing the latest on Passwordless deployments including the new Hello For Business Cloud Kerberos Trust and what you should be doing right now!",
+		"links": [{
+			"linktext": "Microsoft Entra Workload Identities - Ignite Session",
+			"linkurl": "https://ignite.microsoft.com/sessions/d73bea57-63bb-4ea0-b030-9001e8cdf1c5"
+		}],
+		"participants": [{
+				"name": "Libby Brown - Microsoft",
+				"link": "https://twitter.com/TruBluDevil"
+			},
+			{
+				"name": "Charity Shelbourne - Microsoft",
+				"link": "https://twitter.com/authgal"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			}
+		]
+	},
+	{
+		"recordingdate": "10/14/2022",
+		"topic": "Protect apps and services and secure their access to resources with Microsoft Entra Workload Identities #MSIgnite",
+		"expirydate": "10/28/2023",
+		"link": "https://twitter.com/i/spaces/1zqKVPwEmqlJB?s=20",
+		"summary": "Join Ilana Smith, Etan Basseri, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space where you can learn more about the all new Microsoft Entra Workload identities solution that manages and secure access of apps and services to cloud resources.",
+		"links": [{
+			"linktext": "Microsoft Entra Workload Identities - Ignite Session",
+			"linkurl": "https://ignite.microsoft.com/sessions/d73bea57-63bb-4ea0-b030-9001e8cdf1c5"
+		}],
+		"participants": [{
+				"name": "Ilana Smith - Microsoft",
+				"link": "https://twitter.com/ilanas"
+			},
+			{
+				"name": "Etan Basseri - Microsoft",
+				"link": "https://twitter.com/ebasseri"
+			},
+			{
+				"name": " Stefan van der Wiele - Microsoft",
+				"link": "https://twitter.com/wiele"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			}
+		]
+	},
+	{
+		"recordingdate": "10/13/2022",
+		"topic": "Zero Trust as Business Driver: 3 Discrete Scenarios #MSIgnite",
+		"expirydate": "10/28/2023",
+		"link": "https://twitter.com/i/spaces/1djxXlbpgBExZ",
+		"summary": "Join Mark Simos, Clay Taylor, Caleb Baker, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space where they share three key business scenarios where implementing a Zero Trust architecture is not only a security priority, but a driver of business results.",
+		"links": [{
+			"linktext": "Zero Trust as Business Driver: 3 Discrete Scenarios - Ignite Session",
+			"linkurl": "https://ignite.microsoft.com/en-US/sessions/9974d5a2-b241-4ede-ab2d-c2cd1b7a83be"
+		}],
+		"participants": [{
+				"name": "Mark Simos - Microsoft",
+				"link": "https://twitter.com/MarkSimos"
+			},
+			{
+				"name": "Nitika Gupta - Microsoft",
+				"link": "https://twitter.com/_nitika_gupta"
+			},
+			{
+				"name": "Clay Taylor - Microsoft",
+				"link": "https://twitter.com/cxp_ems_clay"
+			},
+			{
+				"name": "Caleb Baker - Microsoft",
+				"link": "https://twitter.com/Caleb_B"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			}
+		]
+	},
+	{
+		"recordingdate": "10/13/2022",
+		"topic": "How to achieve zero standing privileges in multicloud #MSIgnite",
+		"expirydate": "10/28/2023",
+		"link": "https://twitter.com/i/spaces/1nAKErPyRqRGL",
+		"summary": "Join Steve Ball, Mrudula Gaidhani, Mark Morowczynski, Bailey Bercik and Merill Fernando for this special Ignite Twitter Space to learn how you can Microsoft Entra Permissions Management you to discover, remediate, and monitor permissions risks across public clouds.",
+		"links": [{
+				"linktext": "How to achieve zero standing privileges in multicloud - Ignite Session",
+				"linkurl": "https://ignite.microsoft.com/sessions/d6603050-03c3-4be4-97b1-c4ad03b4b74e"
+			},
+			{
+				"linktext": "Twitter link thread for the show",
+				"linkurl": "https://twitter.com/merill/status/1580656946717560832?s=20&t=XkKPs6DPGoFXoZ71KGR6hg"
+			},
+			{
+				"linktext": "Everything you wanted to know about cloud infrastructure entitlement management (CIEM)  https://aka.ms/ciem",
+				"linkurl": "https://aka.ms/ciem"
+			},
+			{
+				"linktext": "Free 90 day trial self-service for Entra Permissions Management  ",
+				"linkurl": "https://aka.ms/TryPermissionsManagement"
+			},
+			{
+				"linktext": "Onboarding AWS accounts, Azure subscriptions and GCP projects to Permissions Management",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-enable-tenant"
+			},
+			{
+				"linktext": "View risk metrics in your authorization system",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/ui-dashboard"
+			},
+			{
+				"linktext": "Permissons Management Pricing Info",
+				"linkurl": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management"
+			}
+		],
+		"participants": [{
+				"name": "Steve Ball - Microsoft",
+				"link": "https://twitter.com/llabevets"
+			},
+			{
+				"name": "Mrudula Gaidhani - Microsoft",
+				"link": "https://twitter.com/mrudulahg"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			}
+		]
+	},
+	{
+		"recordingdate": "10/12/2022",
+		"topic": "Migrating ADFS apps to Azure AD #MSIgnite",
+		"expirydate": "10/28/2023",
+		"link": "https://twitter.com/i/spaces/1gqGvyLnqdjKB",
+		"summary": "Join David Gregory, Mark Morowczynski, Jorge Lopez and Merill Fernando for this special Ignite Twitter Space to find out how you can plan and execute your migration away from ADFS Azure Active Directory",
+		"links": [{
+				"linktext": "Migrating ADFS apps to Azure AD - Ignite Session",
+				"linkurl": "https://ignite.microsoft.com/sessions/56b18247-a311-4b8f-8397-486b9ab30e68"
+			},
+			{
+				"linktext": "Twitter thread for this Space",
+				"linkurl": "https://twitter.com/merill/status/1580320705279062016?s=20&t=GqtMzJB529D1uYwNZrR5fQ"
+			},
+			{
+				"linktext": "ADFS Survey - Let us know if you need new features here",
+				"linkurl": "https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR4H46q_PcJ5PqZ5U5zJ5CExUREhFNUU1UFFWMTdWVk1SWUU4WDBWVFdEOC4u"
+			},
+			{
+				"linktext": "Resources for migrating applications to Azure Active Directory",
+				"linkurl": "https://learn.microsoft.com/azure/active-directory/manage-apps/migration-resources"
+			},
+			{
+				"linktext": "Monitor AD FS using Azure AD Connect Health",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-adfs"
+			},
+			{
+				"linktext": "Review the ADFS application activity report",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-application-activity"
+			},
+			{
+				"linktext": "Migrate to cloud authentication using Staged Rollout",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout"
+			},
+			{
+				"linktext": "PowerShell Script: Bulk create SAML based Azure AD Gallery enterprise applications in Azure AD",
+				"linkurl": "https://github.com/orgs/msgraph/discussions/57"
+			},
+			{
+				"linktext": "PowerShell Script: Bulk create non-gallery SAML based enterprise applications in Azure AD",
+				"linkurl": "https://github.com/orgs/msgraph/discussions/56"
+			}
+		],
+		"participants": [{
+				"name": "David Gregory - Microsoft",
+				"link": "https://twitter.com/2BuckDave"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jorge Lopez - Microsoft",
+				"link": "https://twitter.com/JorgeALopez"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			}
+		]
+	},
+	{
+		"recordingdate": "10/05/2022",
+		"topic": "Enabling Security Defaults in Azure AD",
+		"expirydate": "neverrrrr",
+		"link": "https://twitter.com/BaileyBercik/status/1577690114146566145",
+		"summary": "This week, the Security Defaults team joins us to discuss what Security Defaults is, whether you should enable it in your tenant, and the upcoming rollout to tenants who do not yet have it turned on.",
+		"links": [{
+				"linktext": "Introducing Security Defaults",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-security-defaults/ba-p/1061414"
+			},
+			{
+				"linktext": "Security Defaults Rollout",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/raising-the-baseline-security-for-all-organizations-in-the-world/ba-p/3299048"
+			},
+			{
+				"linktext": "Security Defaults Documentation",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults"
+			}
+		],
+		"participants": [
+
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"recordingdate": "09/28/2022",
+		"topic": "Audience Q&A",
+		"expirydate": "09/28/2023",
+		"link": "https://twitter.com/i/spaces/1lPKqBNMrkQGb?s=20",
+		"summary": "This week Jef Kazimer, Bailey Bercik and Merill Fernando are answering your questions and this week was all about authentication! Including number matching, Identity Protection risk detection, types of MFA and more!",
+		"links": [{
+				"linktext": "Microsoft Ignite Identity Sessions",
+				"linkurl": "https://aka.ms/idignite"
+			},
+			{
+				"linktext": "Links shared on Twitter during show",
+				"linkurl": "https://twitter.com/BaileyBercik/status/1575259096898744321?s=20&t=XDvluZ2YRO-AGQHMc7F0Zg"
+			},
+			{
+				"linktext": "How to use additional context in Microsoft Authenticator notifications (Preview) - Authentication methods policy",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-additional-context"
+			},
+			{
+				"linktext": "Meet multifactor authentication requirements of memorandum 22-09",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/standards/memo-22-09-multi-factor-authentication"
+			},
+			{
+				"linktext": "Best practice when working with Azure AD | Jamf Blog",
+				"linkurl": "https://www.jamf.com/blog/azure-ad-conditional-access-jnuc2022/"
+			},
+			{
+				"linktext": "Azure AD Connect Configuration Documenter",
+				"linkurl": "https://github.com/microsoft/AADConnectConfigDocumenter"
+			},
+			{
+				"linktext": "How to use number matching in multifactor authentication (MFA) notifications (Preview) - Authentication methods policy",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match"
+			},
+			{
+				"linktext": "Identity Protection: List of risk detections",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#premium-sign-in-risk-detections"
+			},
+			{
+				"linktext": "How To: Investigate risk",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk"
+			},
+			{
+				"linktext": "What are custom security attributes in Azure AD?",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/custom-security-attributes-overview"
+			},
+			{
+				"linktext": "Azure AD Exporter",
+				"linkurl": "https://github.com/microsoft/azureadexporter"
+			},
+			{
+				"linktext": "Announcing public preview of SSO and passwordless authentication for Azure Virtual Desktop",
+				"linkurl": "https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/announcing-public-preview-of-sso-and-passwordless-authentication/ba-p/3638244"
+			}
+		],
+		"participants": [{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			}
+		]
+	},
+	{
+		"recordingdate": "09/14/2022",
+		"topic": "Secure user experience with macOS and Linux",
+		"expirydate": "09/14/2023",
+		"link": "https://twitter.com/i/spaces/1BRJjZpbqDjJw?s=20",
+		"summary": "Michael Epping, Jef Kazimer, Mark Morowczynski, Bailey Bercik and Merill Fernando discuss how you can use Azure AD to secure and improve the experience for your macOS and Linux users.",
+		"links": [{
+				"linktext": "Links shared on Twitter during show",
+				"linkurl": "https://twitter.com/JefTek/status/1570185913535459330"
+			},
+			{
+				"linktext": "Apple SSO Extension for Azure AD",
+				"linkurl": "https://docs.microsoft.com/azure/active-directory/develop/apple-sso-plugin"
+			},
+			{
+				"linktext": "Apple SSO Extension deployment guide for Intune",
+				"linkurl": "https://docs.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-ios-ipados-macos"
+			},
+			{
+				"linktext": "Apple SSO Extension deployment guide for Jamf Pro",
+				"linkurl": "https://docs.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-ios-ipados-macos-with-jamf-pro"
+			},
+			{
+				"linktext": "Linux desktop compliance with Intune",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/microsoft-endpoint-manager-adds-management-and-compliance-checks/ba-p/2902346"
+			},
+			{
+				"linktext": "Azure Linux server login w/ Azure AD and SSH",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux"
+			},
+			{
+				"linktext": "Arc Linux server login w/ Azure AD and SSH",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/azure-arc/servers/ssh-arc-overview"
+			},
+			{
+				"linktext": "Full deep dive session (Defcon Blue Team Village Mark/Michael)",
+				"linkurl": "https://www.youtube.com/watch?v=wjRgnCWI4GE&list=PLvQcui-UIwfR2qFI2GKmCHSaYIxI-bkce&index=4"
+			}
+		],
+		"participants": [{
+				"name": "Michael Epping - Microsoft",
+				"link": "https://twitter.com/@_michaelepping"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			}
+		]
+	},
+	{
+		"topic": "Migrating apps from ADFS to AAD",
+		"recordingdate": "08/10/2022",
+		"expirydate": "09/09/2022",
+		"link": "https://twitter.com/i/spaces/1OdJrBXNgNvJX?s=20",
+		"summary": "David Gregory, Kyle Marsh, Jef Kazimer, and Mark Morowczynski discuss why you should move your apps from ADFS to AAD, how to best approach it, and finally turning off ADFS entirely!",
+		"links": [{
+				"linktext": "Links shared by @JefTek on Twitter during show",
+				"linkurl": "https://twitter.com/markmorow/status/1557396465546170370"
+			},
+			{
+				"linktext": "Identitfy which apps to move",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-application-activity"
+			},
+			{
+				"linktext": "Full set of resources for app migrations",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migration-resources"
+			},
+			{
+				"linktext": "Using Staged Rollout to migrate from ADFS to AAD auth ",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout"
+			}
+		],
+		"participants": [{
+				"name": "David Gregory - Microsoft",
+				"link": "https://twitter.com/2BuckDave"
+			},
+			{
+				"name": "Kyle Marsh - Microsoft",
+				"link": "https://twitter.com/kylemar"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "Upgrading Azure AD Connect v1 to v2/AAD Connect Cloud Sync",
+		"recordingdate": "08/03/2022",
+		"expirydate": "09/02/2022",
+		"link": "https://twitter.com/i/spaces/1gqxvlQDPBWGB?s=20",
+		"summary": "Rob de Jong, Daniel Birmingham, Bailey Bercik, Jef Kazimer, and Mark Morowczynski discuss upgrading off of Azure AD Connect v1",
+		"links": [{
+				"linktext": "Links shared by @JefTek on Twitter during show",
+				"linkurl": "https://twitter.com/markmorow/status/1554965386121990145?s=20&t=507PmLNZXXKD7EbPt84FYw"
+			},
+			{
+				"linktext": "Upgrading Azure AD Connect Swing Migration",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version"
+			},
+			{
+				"linktext": "Azure AD Connect Config Documenter",
+				"linkurl": "https://github.com/Microsoft/AADConnectConfigDocumenter"
+			},
+			{
+				"linktext": "Running Azure AD Connect Cloud Sync with Azure AD Connect ",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp"
+			}
+		],
+		"participants": [{
+				"name": "Rob de Jong - Microsoft",
+				"link": "https://twitter.com/rjong999"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "Identity PowerShell",
+		"recordingdate": "07/20/2022",
+		"expirydate": "08/19/2022",
+		"link": "https://twitter.com/i/spaces/1OyKADDjBnOxb?s=20",
+		"summary": "Adam Edwards, Merill Fernando, Jef Kazimer, Bailey Bercik and Mark Morowczynski discuss using PowerShell with Microsoft Graph",
+		"links": [{
+				"linktext": "Links shared by @BaileyBercik on Twitter during show",
+				"linkurl": "https://twitter.com/BaileyBercik/status/1549895445106663428"
+			},
+			{
+				"linktext": "Blog Announcement",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/update-your-applications-to-use-microsoft-authentication-library/ba-p/1257363"
+			},
+			{
+				"linktext": "Microsoft Graph PowerShell overview",
+				"linkurl": "https://docs.microsoft.com/en-us/powershell/microsoftgraph/overview?view=graph-powershell-1.0"
+			},
+			{
+				"linktext": "Find Azure and MSOnline cmdlets in Graph PowerShell",
+				"linkurl": "https://docs.microsoft.com/en-us/powershell/microsoftgraph/azuread-msoline-cmdlet-map?view=graph-powershell-1.0"
+			}
+		],
+		"participants": [{
+				"name": "Adam Edwards - Microsoft",
+				"link": "https://twitter.com/adamedx"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "Workload Identities",
+		"recordingdate": "07/12/2022",
+		"expirydate": "08/12/2022",
+		"link": "https://twitter.com/i/spaces/1YqKDqqrMdVGV?s=20",
+		"summary": "John Patrick Dandison, Jef Kazimer, and Mark Morowczynski discuss Workload Identities",
+		"links": [{
+				"linktext": "Links shared by @markmorow on Twitter during show",
+				"linkurl": "https://twitter.com/markmorow/status/1547251745968963586?s=20&t=kqL28oBlP3WXY-xUc8o8LQ"
+			},
+			{
+				"linktext": "Blog Announcement",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/managing-governing-and-securing-identities-for-apps-and-services/ba-p/3402816"
+			},
+			{
+				"linktext": "Workload Identities discussed at SANS CloudSecNext 2022",
+				"linkurl": "https://www.youtube.com/watch?v=o39NhfCweBc"
+			},
+			{
+				"linktext": "Securing & Monitoring Workload Identities",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/learn-how-to-secure-and-monitor-workload-identities-with-a/ba-p/2810640"
+			}
+		],
+		"participants": [{
+				"name": "John Patrick Dandison - Microsoft",
+				"link": "https://twitter.com/jpda__"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "Identity Open Standards",
+		"recordingdate": "06/29/2022",
+		"expirydate": "07/29/2022",
+		"link": "https://twitter.com/i/spaces/1yoKMWXoXboJQ?s=20",
+		"summary": "Pam Dingle, Kristina Yasuda, Pieter Kasselman and Tim Cappalli discuss the importance of open standardds in identity, why they matter to you and what you should be focusing on.",
+		"links": [{
+				"linktext": "Links shared by @BaileyBercik on Twitter during show",
+				"linkurl": "https://twitter.com/BaileyBercik/status/1542176938663415808?s=20&t=bBfsFq8ZKDUFmHgAh78MQA"
+			},
+			{
+				"linktext": "OAuth 2 RFC Link Tree",
+				"linkurl": "https://linktr.ee/oauth2"
+			},
+			{
+				"linktext": "Decentralized Identity Link Tree",
+				"linkurl": "https://linktr.ee/decentralizedidentity"
+			},
+			{
+				"linktext": "Identity Standards Blog",
+				"linkurl": "https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards"
+			}
+		],
+		"participants": [{
+				"name": "Pam Dingle - Microsoft",
+				"link": "https://twitter.com/pamelarosiedee"
+			},
+			{
+				"name": "Kristina Yasuda - Microsoft",
+				"link": "https://twitter.com/kristinayasuda"
+			},
+			{
+				"name": "Pieter Kasselman - Microsoft",
+				"link": "https://twitter.com/PieterKasselman"
+			},
+			{
+				"name": "Tim Cappalli - Microsoft",
+				"link": "https://twitter.com/timcappalli"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "Exchange Online Basic Authentication Deprecation",
+		"recordingdate": "06/15/2022",
+		"expirydate": "07/15/2022",
+		"link": "https://twitter.com/i/spaces/1gqxvlEvAWpGB",
+		"summary": "Greg Taylor from the Exchange team discusses the upcoming deprecation of basic authentication and what you should do to prepare if you haven't started already.",
+		"links": [{
+				"linktext": "Links shared by @MarkMorow on Twitter during show",
+				"linkurl": "https://twitter.com/markmorow/status/1537103943632769026"
+			},
+			{
+				"linktext": "How do you know if your users will be impacted?",
+				"linkurl": "https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online#how-do-you-know-if-your-users-will-be-impacted"
+			},
+			{
+				"linktext": "Azure AD Workbook to look for basic authentication",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/workbook-legacy%20authentication"
+			},
+			{
+				"linktext": "Exchange Basic Auth Update May 2022",
+				"linkurl": "https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-deprecation-in-exchange-online-may-2022/ba-p/3301866"
+			}
+		],
+		"participants": [{
+				"name": "Greg Taylor - Microsoft",
+				"link": "https://twitter.com/Gregtaylor_msft"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "Governance QnA w/Microsoft Identity Product Group #MicrosoftIdentityPGChat",
+		"recordingdate": "04/20/2022",
+		"expirydate": "05/20/2022",
+		"link": "https://twitter.com/i/spaces/1RDGlgngBRzKL",
+		"summary": "Open Question and Answer from the audience with governance topics including Entitlement Managment, Access Reviews, and PIM",
+		"links": [{
+				"linktext": "Links shared by @MarkMorow on Twitter during show",
+				"linkurl": "https://twitter.com/markmorow/status/1516809485276237824"
+			},
+			{
+				"linktext": "Getting Started with Governance",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/governance/"
+			},
+			{
+				"linktext": "The New Governance Wizard to get you started on why and how!",
+				"linkurl": "https://portal.office.com/adminportal/home?#/identitygovernance"
+			},
+			{
+				"linktext": "Additional Identity Governance events and resources",
+				"linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/make-azure-ad-identity-governance-work-for-you/ba-p/2810643"
+			}
+		],
+		"participants": [{
+				"name": "Christos Matskas - Microsoft",
+				"link": "https://twitter.com/christosmatskas"
+			},
+			{
+				"name": "Shannon Kuehn - Microsoft",
+				"link": "https://twitter.com/shankuehn"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "Open QnA w/Microsoft Identity Product Group #MicrosoftIdentityPGChat",
+		"recordingdate": "04/04/2022",
+		"expirydate": "05/03/2022",
+		"link": "https://twitter.com/i/spaces/1nAKEYekWmgKL",
+		"summary": "Open Question and Answer from the audience with topics including Conditional Access, CloudKnox Permissions management, and Passwordless for Chromebooks",
+		"links": [{
+				"linktext": "Links shared by @BaileyBercik on Twitter during show",
+				"linkurl": "https://twitter.com/BaileyBercik/status/1511736492149813249"
+			},
+			{
+				"linktext": "ThreadReaderApp of links shared during show",
+				"linkurl": "https://threadreaderapp.com/thread/1511736492149813249.html"
+			},
+			{
+				"linktext": "CloudKnox Permission Management Public Preview",
+				"linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/cloudknox-permissions-management-is-now-in-public-preview/ba-p/2464391"
+			},
+			{
+				"linktext": "Hybrid Cloud Trust Deployment (Preview)",
+				"linkurl": "https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-cloud-trust"
+			},
+			{
+				"linktext": "Conditional Access Policy templates",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common#conditional-access-templates-preview"
+			},
+			{
+				"linktext": "Introducing Azure AD custom security attributes",
+				"linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/introducing-azure-ad-custom-security-attributes/ba-p/2147068"
+			},
+			{
+				"linktext": "Browser support of FIDO2 passwordless authentication - Now with ChromeOS support!",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/authentication/fido2-compatibility"
+			},
+			{
+				"linktext": "Microsoft Enterprise SSO plug-in for Apple devices (preview)",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/develop/apple-sso-plugin"
+			},
+			{
+				"linktext": "What is Azure Active Directory recommendations (preview)?",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/overview-recommendations"
+			},
+			{
+				"linktext": "Free Azure AD Dev Training for IT Pros",
+				"linkurl": "https://techcommunity.microsoft.com/t5/community-events-list/line-of-business-applications-for-it-pros-check-out-our-upcoming/m-p/3105667?emcs_t=S2h8ZW1haWx8cG1fbm90aWZpY2F0aW9ufEtaNjJFMldQSENBWThCfC0xfFBSSVZBVEVfTUVTU0FHRVN8aEs"
+			},
+			{
+				"linktext": "Free Azure AD Dev Training for Devs",
+				"linkurl": "https://github.com/microsoft/AzureADGraphApps"
+			}
+		],
+		"participants": [{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "KQL Q&A with Microsoft Azure AD Product Team",
+		"recordingdate": "03/16/2022",
+		"expirydate": "04/17/2022",
+		"link": "https://twitter.com/i/spaces/1LyGBojbXwMJN",
+		"summary": "KQL Q&A with Microsoft Azure AD Product Team",
+		"links": [{
+				"linktext": "Must Learn KQL by Rod Trent",
+				"linkurl": "https://github.com/rod-trent/MustLearnKQL"
+			},
+			{
+				"linktext": "Splunk KQL Cheat Sheet",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/splunk-cheat-sheet"
+			},
+			{
+				"linktext": "Matt's 365 Days of KQL Repo",
+				"linkurl": "https://github.com/reprise99/Sentinel-Queries"
+			},
+			{
+				"linktext": "Additional links for more KQL resources",
+				"linkurl": "https://twitter.com/BaileyBercik/status/1504460649732005890"
+			}
+		],
+		"participants": [{
+				"name": "Matt Zorich",
+				"link": "https://twitter.com/reprise_99"
+			},
+			{
+				"name": "Corissa Koopmans - Microsoft",
+				"link": "https://twitter.com/corissalea"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "CloudKnox Permissions Management",
+		"recordingdate": "03/09/2022",
+		"expirydate": "04/10/2022",
+		"link": "https://twitter.com/i/spaces/1djGXPZyoovGZ",
+		"summary": "QnA with the CloudKnox feature team for management entitlements in multi-cloud environments",
+		"links": [{
+				"linktext": "CloudKnox Permissions Management is now in Public Preview",
+				"linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/cloudknox-permissions-management-is-now-in-public-preview/ba-p/2464391"
+			},
+			{
+				"linktext": "CloudKnox Permissions Management (Documentation)",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/"
+			},
+			{
+				"linktext": "CloudKnox Frequently asked questions (FAQs)",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/cloudknox-faqs"
+			},
+			{
+				"linktext": "CloudKnox Permissions Management training videos",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/cloudknox-training-videos"
+			}
+		],
+		"participants": [{
+				"name": "Nick Wryter",
+				"link": "https://twitter.com/nickwryter"
+			},
+			{
+				"name": "Guruprasad Ramprakash",
+				"link": "https://twitter.com/Gururamp30"
+			},
+			{
+				"name": "Steve Ball",
+				"link": "https://twitter.com/llabevets"
+			},
+			{
+				"name": "Maya Neelakandhan",
+				"link": "https://twitter.com/Mayavk"
+			},
+			{
+				"name": "Mrudula Gaidhani",
+				"link": "https://twitter.com/MrudulaGaidhani"
+			},
+			{
+				"name": "Laura Viarengo",
+				"link": "https://twitter.com/Lauraviarengo_"
+			},
+			{
+				"name": "Mark Morowczynski",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Jef Kazimer",
+				"link": "https://twitter.com/jeftek"
+			}
+		]
+	},
+	{
+		"topic": "Audience Q&A",
+		"recordingdate": "02/23/2022",
+		"expirydate": "03/25/2022",
+		"link": "https://twitter.com/i/spaces/1gqxvlRZQpjGB?s=20",
+		"summary": "This week Bailey Bercik, Jef Kazimer and Mark Morowczyski are answering your questions and this one had everything! Azure AD B2B, azure ad connect sync, developer questions and more!",
+		"links": [{
+				"linktext": "Application Insights Workbooks",
+				"linkurl": "https://github.com/Microsoft/Application-Insights-Workbooks"
+			},
+			{
+				"linktext": "Azure AD Resiliency Overview",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/resilience-overview"
+			},
+			{
+				"linktext": "Workshop - Line Of Business apps for IT Pros",
+				"linkurl": "https://techcommunity.microsoft.com/t5/community-events-list/line-of-business-applications-for-it-pros-check-out-our-upcoming/m-p/3105667?emcs_t=S2h8ZW1haWx8cG1fbm90aWZpY2F0aW9ufEtaNjJFMldQSENBWThCfC0xfFBSSVZBVEVfTUVTU0FHRVN8aEs"
+			}
+		],
+		"participants": [{
+				"name": "Mark Morowczynski",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer",
+				"link": "https://twitter.com/jeftek"
+			},
+			{
+				"name": "Bailey Bercik",
+				"link": "https://twitter.com/BaileyBercik"
+			}
+		]
+	},
+	{
+		"topic": "Securing External Identity collaboration with Cross-Tenant Access policies",
+		"recordingdate": "02/16/2022",
+		"expirydate": "03/18/2022",
+		"link": "https://twitter.com/i/spaces/1RDGlgLZmzdKL?s=20",
+		"summary": "This week Josh Douglas, Sangeeta Ranjit, Jeff Bley and Sandeep Deo joined Bailey Bercik, Jef Kazimer and Mark Morowczyski to discuss a new Azure AD feature release, Cross-Tenant Access policies. They covered what problems customers were trying to solve with this feature, how to roll this out in a controlled manner, troubleshooting and some best practices.",
+		"links": [{
+				"linktext": "Collaborate more securely with new cross-tenant access settings - Microsoft Tech Community",
+				"linkurl": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/collaborate-more-securely-with-new-cross-tenant-access-settings/ba-p/2147077"
+			},
+			{
+				"linktext": "Cross-tenant access activity workbook",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/workbook-cross-tenant-access-activity"
+			},
+			{
+				"linktext": "Cross-tenant access settings API overview",
+				"linkurl": "https://docs.microsoft.com/en-us/graph/api/resources/crosstenantaccesspolicy-overview?view=graph-rest-beta"
+			},
+			{
+				"linktext": "PowerShell - Resolve MsIdTenant",
+				"linkurl": "https://github.com/AzureAD/MSIdentityTools/wiki/Resolve-MSIDTenant"
+			}
+		],
+		"participants": [{
+				"name": "Mark Morowczynski",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer",
+				"link": "https://twitter.com/jeftek"
+			},
+			{
+				"name": "Bailey Bercik",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Josh Douglas",
+				"link": "https://twitter.com/joshkdouglas"
+			},
+			{
+				"name": "Sangeeta Ranjit",
+				"link": "https://twitter.com/sangeeta_ranjit"
+			},
+			{
+				"name": "Jeff Bley",
+				"link": "https://twitter.com/jeff_bley"
+			},
+			{
+				"name": "Sandeep Deo",
+				"link": "https://twitter.com/MsftSandeep"
+			}
+		]
+	},
+	{
+		"topic": "Azure AD Graph to MS Graph & ADAL to MSAL",
+		"recordingdate": "02/09/2022",
+		"expirydate": "03/11/2022",
+		"link": "https://twitter.com/markmorow/status/1491456907948675076?s=20&t=BSj8-3T-OqiZ4bh0NO1iYg",
+		"summary": "This week Kyle Marsh and Akanksha Niraliya Garg joined Bailey Bercik, Jef Kazimer and Mark Morowczyski to discuss moving your apps from AAD Graph to MS Graph including how to find those apps as well as the benefits you get. They also discussed the benefits of using the MSAL library and why customers should upgrade from ADAL and not roll their own.",
+		"links": [{
+				"linktext": "FAQ on moving from Azure AD Graph to MS Graph",
+				"linkurl": "https://docs.microsoft.com/en-us/graph/migrate-azure-ad-graph-faq"
+			},
+			{
+				"linktext": "Locating Azure AD Graph Apps",
+				"linkurl": "https://github.com/microsoft/AzureADGraphApps"
+			},
+			{
+				"linktext": "Locating Apps using the ADAL library",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-get-list-of-all-active-directory-auth-library-apps"
+			},
+			{
+				"linktext": "Free Azure AD Dev Training for IT Pros",
+				"linkurl": "https://techcommunity.microsoft.com/t5/community-events-list/line-of-business-applications-for-it-pros-check-out-our-upcoming/m-p/3105667?emcs_t=S2h8ZW1haWx8cG1fbm90aWZpY2F0aW9ufEtaNjJFMldQSENBWThCfC0xfFBSSVZBVEVfTUVTU0FHRVN8aEs"
+			},
+			{
+				"linktext": "Free Azure AD Dev Training for Devs",
+				"linkurl": "https://github.com/microsoft/AzureADGraphApps"
+			}
+		],
+		"participants": [{
+				"name": "Mark Morowczynski",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer",
+				"link": "https://twitter.com/jeftek"
+			},
+			{
+				"name": "Bailey Bercik",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Kyle Marsh",
+				"link": "https://twitter.com/kylemarsh"
+			},
+			{
+				"name": "Akanksha Niraliya Garg",
+				"link": "https://twitter.com/aksGarg"
+			}
+		]
+	},
+	{
+		"topic": "Azure AD Connect and Cloud Sync",
+		"recordingdate": "02/02/2022",
+		"expirydate": "03/04/2022",
+		"link": "https://twitter.com/JefTek/status/1489043494543020039?s=20&t=PcmlYrigOWLISDWrw1Igzg",
+		"summary": " This week Rob de Jong and Dhanyah Krishnamoorthy joined Bailey Bercik, Jef Kazimer and Mark Morowczyski to discuss moving from Azure AD Connect V1 to V2, Azure AD Cloud Sync and what it is and what scenarios it can be used with today, and finally some best practices and running cloud sync in parallel with Azure AD Connect.",
+		"links": [{
+				"linktext": "Azure AD Connect Version History",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history"
+			},
+			{
+				"linktext": "Azure AD Connect Config Documenter",
+				"linkurl": "https://github.com/Microsoft/AADConnectConfigDocumenter"
+			},
+			{
+				"linktext": "What is Azure AD Connect Cloud Sync",
+				"linkurl": " https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync"
+			},
+			{
+				"linktext": "Azure AD Connect Cloud Sync Install and Videos",
+				"linkurl": "https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/how-to-install"
+			}
+		],
+		"participants": [{
+				"name": "Mark Morowczynski",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer",
+				"link": "https://twitter.com/jeftek"
+			},
+			{
+				"name": "Bailey Bercik",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Rob de Jong",
+				"link": "https://twitter.com/rjong999"
+			},
+			{
+				"name": "Dhanyah Krishnamoorthy",
+				"link": "https://twitter.com/DhanyahkMSFT"
+			}
+		]
+	},
+	{
+		"topic": "Introduction to the Microsoft Decentralized Identity platform",
+		"recordingdate": "01/26/2022",
+		"expirydate": "02/25/2022",
+		"link": "https://twitter.com/markmorow/status/1491456907948675076?s=20&t=BSj8-3T-OqiZ4bh0NO1iYghttps://twitter.com/jeftek/status/1486402357919371267?s=21",
+		"summary": "This week Rohit Gulati, Christos Matskas and Shannon Kuehn joined Bailey Bercik, Jef Kazimer and Mark Morowczyski to discuss Microsoft's approach with Decentralized Identity, challenges and opportunities for developers and enterprises. Learn how Verifiable Credentials are about to change the world and make sure to sign up to the upcoming hackathon!",
+		"links": [{
+				"linktext": "Microsoft Decentralized Identity Platform",
+				"linkurl": "https://425.show/did-blog"
+			},
+			{
+				"linktext": "Watch the DiD YouTube videos",
+				"linkurl": "https://425.show/playlist"
+			},
+			{
+				"linktext": "Microsoft Decentralized Identity Whitepaper",
+				"linkurl": "https://425.show/vcpaper"
+			},
+			{
+				"linktext": "ION - Booting up the network",
+				"linkurl": "https://425.show/blog-vcion"
+			},
+			{
+				"linktext": "Microsoft DID Hackathon",
+				"linkurl": "https://425/show/did-hackathon"
+			},
+			{
+				"linktext": "Microsoft DID Official Documentation",
+				"linkurl": "https://425.show/vcdocs"
+			}
+		],
+		"participants": [{
+				"name": "Mark Morowczynski",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Jef Kazimer",
+				"link": "https://twitter.com/jeftek"
+			},
+			{
+				"name": "Bailey Bercik",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Christos Matskas",
+				"link": "https://twitter.com/christosmatskas"
+			},
+			{
+				"name": "Shannon Kuehn",
+				"link": "https://twitter.com/shankuehn"
+			},
+			{
+				"name": "Rohit Gulati",
+				"link": "https://twitter.com/MrRohitGulati"
+			}
+		]
+	}
 ]
