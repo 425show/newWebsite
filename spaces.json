@@ -92,9 +92,58 @@
 		"link": "https://twitter.com/i/spaces/1djxXlbpgBExZ",
 		"summary": "Join Mark Simos, Clay Taylor, Caleb Baker, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space where they share three key business scenarios where implementing a Zero Trust architecture is not only a security priority, but a driver of business results.",
 		"links": [{
-			"linktext": "Zero Trust as Business Driver: 3 Discrete Scenarios - Ignite Session",
-			"linkurl": "https://ignite.microsoft.com/en-US/sessions/9974d5a2-b241-4ede-ab2d-c2cd1b7a83be"
-		}],
+				"linktext": "Zero Trust as Business Driver: 3 Discrete Scenarios - Ignite Session",
+				"linkurl": "https://ignite.microsoft.com/en-US/sessions/9974d5a2-b241-4ede-ab2d-c2cd1b7a83be"
+			},
+			{
+				"linktext": "Twitter link thread for the show",
+				"linkurl": "https://twitter.com/markmorow/status/1580694894863343616?s=20&t=6WPniM_mYJ9wEVcXmfpw2Q"
+			},
+			{
+				"linktext": "Mark Simos' awesome list of cybersecurity resources he frequently sends to customers and colleagues",
+				"linkurl": "https://www.linkedin.com/pulse/marks-list-mark-simos/"
+			},
+			{
+				"linktext": "The Chief Information Security Officer (CISO) Workshop Training",
+				"linkurl": "https://learn.microsoft.com/en-au/security/ciso-workshop/the-ciso-workshop"
+			},
+			{
+				"linktext": "Zero Trust Guidance Center - Learn how to implement a Zero Trust architecture using the deployment plans",
+				"linkurl": "https://learn.microsoft.com/en-au/security/zero-trust/"
+			},
+			{
+				"linktext": "Conditional Access authentication strength (preview)",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-strengths"
+			},
+			{
+				"linktext": "Overview of Azure AD certificate-based authentication",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-certificate-based-authentication"
+			},
+			{
+				"linktext": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/all-your-creds-are-belong-to-us/ba-p/855124",
+				"linkurl": "All your creds are belong to us!"
+			},
+			{
+				"linktext": "Use Windows 10/11 templates to configure group policy settings in Microsoft Intune",
+				"linkurl": "https://learn.microsoft.com/en-us/mem/intune/configuration/administrative-templates-windows"
+			},
+			{
+				"linktext": "Configure Temporary Access Pass in Azure AD to register Passwordless authentication methods",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-authentication-temporary-access-pass"
+			},
+			{
+				"linktext": "Dev Training: How to authenticate users of your apps with the Microsoft identity platform",
+				"linkurl": "https://www.youtube.com/watch?v=Mtpx_lpfRLs"
+			},
+			{
+				"linktext": "Microsoft Secure Score for Devices",
+				"linkurl": "https://learn.microsoft.com/en-us/microsoft-365/security/defender-vulnerability-management/tvm-microsoft-secure-score-devices?view=o365-worldwide"
+			},
+			{
+				"linktext": "Overview of Windows Autopilot",
+				"linkurl": "https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot"
+			}
+		],
 		"participants": [{
 				"name": "Mark Simos - Microsoft",
 				"link": "https://twitter.com/MarkSimos"
