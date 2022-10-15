@@ -29,11 +29,28 @@
 		"recordingdate": "10/14/2022",
 		"topic": "Deploying Passwordless: Hello For Business & FIDO2 #MSIgnite",
 		"expirydate": "10/28/2023",
-		"link": "https://twitter.com/i/spaces/1yNxaNjpoXvKj",
-		"summary": "Join Libby Brown, Charity Shelbourne, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space discussing the latest on Passwordless deployments including the new Hello For Business Cloud Kerberos Trust and what you should be doing right now!",
+		"link": "https://twitter.com/markmorow/status/1580981822363947008",
+		"summary": "Join Libby Brown, Charity Shelbourne, Tarek Dawoud, Mark Morowczynski, and Bailey Bercik for this special Ignite Twitter Space discussing the latest on Passwordless deployments including the new Hello For Business Cloud Kerberos Trust and what you should be doing right now!",
 		"links": [{
-			"linktext": "Microsoft Entra Workload Identities - Ignite Session",
-			"linkurl": "https://ignite.microsoft.com/sessions/d73bea57-63bb-4ea0-b030-9001e8cdf1c5"
+			"linktext": "From Strong To Stronger: Phishing Resistant Authentication Methods",
+			"linkurl": "https://www.youtube.com/watch?v=3wtwUh6iyxY"
+		},
+		{
+			"linktext": "Hybrid Cloud Kerberos Trust",
+			"linkurl": "https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-cloud-kerberos-trust?tabs=intune"
+		},
+		{
+			"linktext": "Defend your users from MFA Fatigue Attacks",
+			"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/defend-your-users-from-mfa-fatigue-attacks/ba-p/2365677"
+		},
+		{
+			"linktext": "Passwordless Deployment Wizard",
+			"linkurl": "http://aka.ms/passwordlessWirdlessWizard"
+		},
+		{
+			"linktext": "Passwordless At Scale: Accenture Case Study",
+			"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/passwordless-is-here-and-at-scale/ba-p/2810639"
+		
 		}],
 		"participants": [{
 				"name": "Libby Brown - Microsoft",
@@ -42,6 +59,10 @@
 			{
 				"name": "Charity Shelbourne - Microsoft",
 				"link": "https://twitter.com/authgal"
+			},
+			{
+				"name": "Tarek Dawoud- Microsoft",
+				"link": "https://twitter.com/cybertarek"
 			},
 			{
 				"name": "Mark Morowczynski - Microsoft",
@@ -57,12 +78,29 @@
 		"recordingdate": "10/14/2022",
 		"topic": "Protect apps and services and secure their access to resources with Microsoft Entra Workload Identities #MSIgnite",
 		"expirydate": "10/28/2023",
-		"link": "https://twitter.com/i/spaces/1zqKVPwEmqlJB?s=20",
+		"link": "https://twitter.com/BaileyBercik/status/1580951656300437504",
 		"summary": "Join Ilana Smith, Etan Basseri, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space where you can learn more about the all new Microsoft Entra Workload identities solution that manages and secure access of apps and services to cloud resources.",
 		"links": [{
 			"linktext": "Microsoft Entra Workload Identities - Ignite Session",
-			"linkurl": "https://ignite.microsoft.com/sessions/d73bea57-63bb-4ea0-b030-9001e8cdf1c5"
-		}],
+			"linkurl": "https://ignite.microsoft.com/en-US/sessions/1d0a3690-b109-4095-b045-60ad8410fe73"
+		},
+		{
+			"linktext": "Conditional Access For Workload Identities",
+			"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/workload-identity"
+		},
+		{
+			"linktext": "Securing Workload Identities with Identity Protection",
+			"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-workload-identity-risk"
+		},
+		{
+			"linktext": "IR Playbooks for Workload Identities",
+			"linkurl": "https://learn.microsoft.com/en-us/security/compass/incident-response-playbook-compromised-malicious-app"
+		},
+		{
+			"linktext": "ISC2 Security Congress Deck",
+			"linkurl": "https://github.com/baileybercik/Presentations"
+		}
+	],
 		"participants": [{
 				"name": "Ilana Smith - Microsoft",
 				"link": "https://twitter.com/ilanas"
@@ -89,15 +127,11 @@
 		"recordingdate": "10/13/2022",
 		"topic": "Zero Trust as Business Driver: 3 Discrete Scenarios #MSIgnite",
 		"expirydate": "10/28/2023",
-		"link": "https://twitter.com/i/spaces/1djxXlbpgBExZ",
-		"summary": "Join Mark Simos, Clay Taylor, Caleb Baker, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space where they share three key business scenarios where implementing a Zero Trust architecture is not only a security priority, but a driver of business results.",
+		"link": "https://twitter.com/markmorow/status/1580694894863343616?s=20&t=6WPniM_mYJ9wEVcXmfpw2Q",
+		"summary": "Join Mark Simos, Nitika Gupta, Alicia Sanchez Teixeira, Clay Taylor, Caleb Baker, Steve Turner, Mark Morowczynski and Bailey Bercik for this special Ignite Twitter Space where they share three key business scenarios where implementing a Zero Trust architecture is not only a security priority, but a driver of business results.",
 		"links": [{
 				"linktext": "Zero Trust as Business Driver: 3 Discrete Scenarios - Ignite Session",
 				"linkurl": "https://ignite.microsoft.com/en-US/sessions/9974d5a2-b241-4ede-ab2d-c2cd1b7a83be"
-			},
-			{
-				"linktext": "Twitter link thread for the show",
-				"linkurl": "https://twitter.com/markmorow/status/1580694894863343616?s=20&t=6WPniM_mYJ9wEVcXmfpw2Q"
 			},
 			{
 				"linktext": "Mark Simos' awesome list of cybersecurity resources he frequently sends to customers and colleagues",
@@ -161,6 +195,14 @@
 				"link": "https://twitter.com/Caleb_B"
 			},
 			{
+				"name": "Steve Turner - Microsoft",
+				"link": "https://twitter.com/beingageek"
+			},
+			{
+				"name": "Alicia Sanchez Teixeira  - Microsoft",
+				"link": "https://twitter.com/@alicia_msft"
+			},
+			{
 				"name": "Mark Morowczynski - Microsoft",
 				"link": "https://twitter.com/markmorow"
 			},
@@ -178,15 +220,11 @@
 		"recordingdate": "10/13/2022",
 		"topic": "How to achieve zero standing privileges in multicloud #MSIgnite",
 		"expirydate": "10/28/2023",
-		"link": "https://twitter.com/i/spaces/1nAKErPyRqRGL",
-		"summary": "Join Steve Ball, Mrudula Gaidhani, Mark Morowczynski, Bailey Bercik and Merill Fernando for this special Ignite Twitter Space to learn how you can Microsoft Entra Permissions Management you to discover, remediate, and monitor permissions risks across public clouds.",
+		"link": "https://twitter.com/merill/status/1580656946717560832?s=20&t=XkKPs6DPGoFXoZ71KGR6hg",
+		"summary": "Join Steve Ball, Mrudula Gaidhani, Bailey Bercik and Merill Fernando for this special Ignite Twitter Space to learn how you can Microsoft Entra Permissions Management you to discover, remediate, and monitor permissions risks across public clouds.",
 		"links": [{
 				"linktext": "How to achieve zero standing privileges in multicloud - Ignite Session",
 				"linkurl": "https://ignite.microsoft.com/sessions/d6603050-03c3-4be4-97b1-c4ad03b4b74e"
-			},
-			{
-				"linktext": "Twitter link thread for the show",
-				"linkurl": "https://twitter.com/merill/status/1580656946717560832?s=20&t=XkKPs6DPGoFXoZ71KGR6hg"
 			},
 			{
 				"linktext": "Everything you wanted to know about cloud infrastructure entitlement management (CIEM)  https://aka.ms/ciem",
@@ -231,15 +269,11 @@
 		"recordingdate": "10/12/2022",
 		"topic": "Migrating ADFS apps to Azure AD #MSIgnite",
 		"expirydate": "10/28/2023",
-		"link": "https://twitter.com/i/spaces/1gqGvyLnqdjKB",
+		"link": "https://twitter.com/merill/status/1580320705279062016?s=20&t=GqtMzJB529D1uYwNZrR5fQ",
 		"summary": "Join David Gregory, Mark Morowczynski, Jorge Lopez and Merill Fernando for this special Ignite Twitter Space to find out how you can plan and execute your migration away from ADFS Azure Active Directory",
 		"links": [{
 				"linktext": "Migrating ADFS apps to Azure AD - Ignite Session",
 				"linkurl": "https://ignite.microsoft.com/sessions/56b18247-a311-4b8f-8397-486b9ab30e68"
-			},
-			{
-				"linktext": "Twitter thread for this Space",
-				"linkurl": "https://twitter.com/merill/status/1580320705279062016?s=20&t=GqtMzJB529D1uYwNZrR5fQ"
 			},
 			{
 				"linktext": "ADFS Survey - Let us know if you need new features here",
