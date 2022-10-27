@@ -1,5 +1,61 @@
 [
 	{
+		"recordingdate": "10/26/2022",
+		"topic": "What's new in Azure AD Conditional Access?",
+		"expirydate": "10/28/2023",
+		"link": "https://twitter.com/markmorow/status/1585405962147762182",
+		"summary": "Join Caleb Baker, Oana Enache, Mark Morowczynski, Jef Kazimer, Merill Fernando and Bailey Bercik to discuss what's new in Condtional Access, specfiically filters for apps!",
+		"links": [
+			{
+				"linktext": "Public Preview Conditional Access filters for apps blog",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-conditional-access-filters-for-apps/ba-p/2365680"
+			},
+			{
+				"linktext": "Conditional access filter for apps Docs",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-filter-for-applications"
+			},
+			{
+				"linktext": "Conditional access gap analzyer workbook",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/workbook-conditional-access-gap-analyzer"
+			},
+			{
+				"linktext": "Common conditional access policies",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common"
+			},
+			{
+				"linktext": "Conditional access insights and reporting",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-insights-reporting"
+			}
+		],
+		"participants": [
+			{
+				"name": "Caleb Baker - Microsoft",
+				"link": "https://twitter.com/Caleb_B"
+			},
+			{
+				"name": "Oana Enache - Microsoft",
+				"link": "https://twitter.com/OanaEnache_"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/JefTek"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+				
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			}
+		]
+	},
+	{
 		"recordingdate": "10/19/2022",
 		"topic": "Balance productivity and security across apps with identity governance #MSIgnite",
 		"link": "https://twitter.com/i/spaces/1dRKZMwmWPAxB",
