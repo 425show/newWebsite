@@ -1,5 +1,61 @@
 [
 	{
+		"recordingdate": "11/02/2022",
+		"topic": "What's new with Microsoft Authenticator?",
+		"expirydate": "11/02/2023",
+		"link": "https://twitter.com/JefTek/status/1587837188452098049",
+		"summary": "Join Rajat Luthra, Mayur Santani, Pramila Padmanabhan, Mark Morowczynski, Jef Kazimer, and Bailey Bercik to discuss what's new in the Microsoft Authenticator App!",
+		"links": [
+			{
+				"linktext": "Authenticator App Features GA",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advanced-microsoft-authenticator-security-features-are-now/ba-p/2365673"
+			},
+			{
+				"linktext": "CISA Recommendation To Enable Number Match",
+				"linkurl": "https://www.cisa.gov/uscert/ncas/current-activity/2022/10/31/cisa-releases-guidance-phishing-resistant-and-numbers-matchings"
+			},
+			{
+				"linktext": "Configuring Authenticator App Number Match",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match"
+			},
+			{
+				"linktext": "Enable Nudge To Encourage Users To Move To Authenticator App",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-registration-campaign"
+			},
+			{
+				"linktext": "MFA Fatigue Attacks Blog",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/defend-your-users-from-mfa-fatigue-attacks/ba-p/2365677"
+			}
+		],
+		"participants": [
+			{
+				"name": "Rajat Luthra - Microsoft",
+				"link": "https://twitter.com/_LuthraRajat"
+			},
+			{
+				"name": "Mayur Santani - Microsoft",
+				"link": "https://twitter.com/MayurSantani"
+			},
+			{
+				"name": "Pramila Padmanabhan - Microsoft",
+				"link": "https://twitter.com/aadevangelist"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/JefTek"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+				
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			}
+		]
+	},
+	{
 		"recordingdate": "10/26/2022",
 		"topic": "What's new in Azure AD Conditional Access?",
 		"expirydate": "10/28/2023",
