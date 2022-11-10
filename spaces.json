@@ -1,5 +1,56 @@
 [
 	{
+		"recordingdate": "11/09/2022",
+		"topic": "Azure AD Certificate Based Authentication on Mobile with guests from Yubico",
+		"expirydate": "11/09/2023",
+		"link": "https://twitter.com/BaileyBercik/status/1590403923600633857",
+		"summary": "Join Shakeel Aziz (Yubico), Ehud Itshaki, Vimala Ranganathan, Jef Kazimer, and Bailey Bercik to discuss the new Certificate Based Authentication on Mobile devices feature in Azure AD",
+		"links": [
+			{
+				"linktext": "Azure AD Certificate-based Authentication (CBA) on Mobile",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-certificate-based-authentication-cba-on-mobile/ba-p/2365672"
+			},
+			{
+				"linktext": "Meet multifactor authentication requirements of memorandum 22-09",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/standards/memo-22-09-multi-factor-authentication"
+			},
+			{
+				"linktext": "Overview of Azure AD certificate-based authentication",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-certificate-based-authentication"
+			},
+			{
+				"linktext": "Browser support of FIDO2 passwordless authentication",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/fido2-compatibility"
+			},
+			{
+				"linktext": "CISA - Implementing Phishing-Resistant MFA",
+				"linkurl": "https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf"
+			}
+		],
+		"participants": [
+			{
+				"name": "Shakeel Aziz - Yubico",
+				"link": "https://twitter.com/ShakeelYubico"
+			},
+			{
+				"name": "Ehud Itshaki - Microsoft",
+				"link": "https://twitter.com/EItshaki"
+			},
+			{
+				"name": "Vimala Ranganathan - Microsoft",
+				"link": "https://twitter.com/vimrang"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/JefTek"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			}
+		]
+	},
+	{
 		"recordingdate": "11/02/2022",
 		"topic": "What's new with Microsoft Authenticator?",
 		"expirydate": "11/02/2023",
