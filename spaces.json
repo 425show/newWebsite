@@ -1,5 +1,52 @@
 [
 	{
+		"recordingdate": "11/16/2022",
+		"topic": "Stronger MFA with Authentication Strengths",
+		"expirydate": "11/16/2023",
+		"link": "https://twitter.com/i/spaces/1ynJOaerjeAKR?s=20",
+		"summary": "Join Inbar Cizer Kobrinsky, Namrata Kedia, Yusuke Kodama, Jef Kazimer, Bailey Bercik, and Merill Fernando to discuss Authentication Strengths, the newest Conditional Access feature in Azure AD",
+		"links": [
+			{
+				"linktext": "Conditional Access authentication strength (preview)",
+				"linkurl": "https://aka.ms/authstrengthdocs"
+			},
+			{
+				"linktext": "Azure AD authentication strengths API overview",
+				"linkurl": "https://aka.ms/authstrengthAPIdocs"
+			},
+			{
+				"linktext": "Authentication strength – choose the right auth method for your scenario!",
+				"linkurl": "https://aka.ms/authstrengthblog "
+			}
+		],
+		"participants": [
+			{
+				"name": "Inbar Cizer Kobrinsky - Microsoft",
+				"link": "https://twitter.com/inbarck"
+			},
+			{
+				"name": "Namrata Kedia - Microsoft",
+				"link": "https://twitter.com/namkedia"
+			},
+			{
+				"name": "Yusuke Kodama - Microsoft",
+				"link": "https://twitter.com/YusukeKodama85"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/JefTek"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			}
+		]
+	},
+	{
 		"recordingdate": "11/09/2022",
 		"topic": "Azure AD Certificate Based Authentication on Mobile with guests from Yubico",
 		"expirydate": "11/09/2023",
