@@ -1,5 +1,88 @@
 [
 	{
+		"recordingdate": "01/25/2023",
+		"topic": "Why you should and can go passwordless today! - LinkedIn Audio Event",
+		"expirydate": "01/25/2123",
+		"link": "https://www.youtube.com/watch?v=alDkqGFRtow&list=PLbxcPujaBt6k20hYXuaLWge8AUoZTS9Bc&index=1",
+		"summary": "Join the Microsoft Identity Engineering Product team to listen to an on-demand LinkedIn Audio event about how you SHOULD be deploying passwordless authentication today, and more importantly HOW you can achieve it by deploying features in Microsoft Entra!",
+		"links": [
+			{
+				"linktext": "LinkedIn Audio Event Page for comments and links",
+				"linkurl": "https://425.show/linkedin-pwless"
+			},
+			{
+				"linktext": "Passwordless Landing Page - Start Here",
+				"linkurl": "http://aka.ms/gopasswordless"
+			},
+			{
+				"linktext": "Understanding Phishing Resistant Credentials - YouTube",
+				"linkurl": "https://www.youtube.com/watch?v=3wtwUh6iyxY"
+			},
+			{
+				"linktext": "Accenture Case Study on going passwordless!",
+				"linkurl": "https://www.accenture.com/us-en/blogs/security/passwordless"
+			},
+			{
+				"linktext": "End user passwordless utopia",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/end-user-passwordless-utopia/ba-p/2144517"
+			},
+			{
+				"linktext": "Enabling Passwordless Phone Sign In",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-authentication-passwordless-phone"
+			},
+			{
+				"linktext": "How to use Temporary Access Pass (TAP)",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-authentication-temporary-access-pass"
+			},
+			{
+				"linktext": "Deploy certificates for remote desktop (RDP) sign-in",
+				"linkurl": "https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-deployment-rdp-certs"
+			},
+			{
+				"linktext": "10 Reasons to Love Passwordless #6: The Passwordless Funnel",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/10-reasons-to-love-passwordless-6-the-passwordless-funnel/ba-p/2144513"
+			},
+			{
+				"linktext": "WHFB Cloud Trust GA Blog Post",
+				"linkurl": "http://aka.ms/cloudtrustGABlog"
+			},
+			{
+				"linktext": "Authentication Methods Policies Overview",
+				"linkurl": "https://learn.microsoft.com/en-us/graph/api/resources/authenticationmethodspolicies-overview"
+			},
+			{
+				"linktext": "Browser support of FIDO2 passwordless authentication",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/fido2-compatibility"
+			}
+		],
+		"participants": [
+			{
+				"name": "Libby Brown - Microsoft",
+				"link": "https://www.linkedin.com/in/libbro/"
+			},
+			{
+				"name": "Tarek Dawoud - Microsoft",
+				"link": "https://www.linkedin.com/in/tarekdawoud/"
+			},
+			{
+				"name": "Charity Shelbourne - Microsoft",
+				"link": "https://www.linkedin.com/in/charity-shelbourne-2148a61a/"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://www.linkedin.com/in/jefkazimer/"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://www.linkedin.com/in/baileybercik/"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://www.linkedin.com/in/markmorow/"
+			}
+		]
+	},
+	{
 		"recordingdate": "11/16/2022",
 		"topic": "Stronger MFA with Authentication Strengths",
 		"expirydate": "11/16/2023",
@@ -145,7 +228,6 @@
 			{
 				"name": "Mark Morowczynski - Microsoft",
 				"link": "https://twitter.com/markmorow"
-				
 			},
 			{
 				"name": "Bailey Bercik - Microsoft",
@@ -197,7 +279,6 @@
 			{
 				"name": "Mark Morowczynski - Microsoft",
 				"link": "https://twitter.com/markmorow"
-				
 			},
 			{
 				"name": "Merill Fernando - Microsoft",
