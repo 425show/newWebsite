@@ -1,5 +1,52 @@
 [
 	{
+		"recordingdate": "02/01/2023",
+		"topic": "Real World Incident Response with Microsoft DART",
+		"expirydate": "02/01/2123",
+		"link": "https://twitter.com/markmorow/status/1620935083757813760?s=20",
+		"summary": "Join Matt Zorich to learn how Microsoft's DART team helps customers response to compromises. He also shares a number of things you can do to avoid having to call in the DART team.",
+		"links": [
+			{
+				"linktext": "Microsoft DART ransomware approach and best practices",
+				"linkurl": "https://learn.microsoft.com/en-us/security/compass/incident-response-playbook-dart-ransomware-approach"
+			},
+			{
+				"linktext": "BART Blog",
+				"linkurl": "https://aka.ms/dartblogs"
+			},
+			{
+				"linktext": "Matt’s awesome KQL repo of KQL",
+				"linkurl": "https://github.com/reprise99 "
+			},
+			{
+				"linktext": "Security Compass IR playbooks",
+				"linkurl": "https://learn.microsoft.com/en-us/security/compass/incident-response-playbooks"
+			},
+			{
+				"linktext": "Learn Kusto in a fun way with Kusto Detective Agency",
+				"linkurl": "https://detective.kusto.io/"
+			}
+		],
+		"participants": [
+			{
+				"name": "Matt Zorich - Microsoft",
+				"link": "https://twitter.com/reprise_99"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/JefTek"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			}
+		]
+	},
+	{
 		"recordingdate": "01/25/2023",
 		"topic": "Why you should and can go passwordless today! - LinkedIn Audio Event",
 		"expirydate": "01/25/2123",
