@@ -1,5 +1,56 @@
 [
 	{
+		"recordingdate": "02/08/2023",
+		"topic": "Migrating from Windows Server 2012 R2",
+		"expirydate": "02/08/2123",
+		"link": "https://twitter.com/i/spaces/1YpKkgAWWYZKj",
+		"summary": "Windows Server 2012 R2 will be out of support Oct 10th 2023. Join Jeff Woosley and Jay Simmons to discuss upgrading your server workloads and Active Directory forests to Server 2019 or Server 2022",
+		"links": [
+			{
+				"linktext": "Windows Server 2016, 2019, 2022 Comparision Doc",
+				"linkurl": "https://download.microsoft.com/download/4/4/5/445bb987-de1e-4ad7-a085-342da48c0179/Windows_Server_2022_Comparison_Guide.pdf"
+			},
+			{
+				"linktext": "How To Upgrade Your Domain Controllers",
+				"linkurl": "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/upgrade-domain-controllers"
+			},
+			{
+				"linktext": "Windows Server Insider Program",
+				"linkurl": "https://learn.microsoft.com/en-us/windows-insider/business/server-get-started"
+			},
+			{
+				"linktext": "Best Practices in Securing Active Directory",
+				"linkurl": "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory"
+			},
+			{
+				"linktext": "Check Support Dates for Microsoft Products",
+				"linkurl": "https://aka.ms/lifecycle"
+			}
+		],
+		"participants": [
+			{
+				"name": "Jeff Woosley - Microsoft",
+				"link": "https://twitter.com/WSV_GUY"
+			},
+			{
+				"name": "Jay Simmons - Microsoft",
+				"link": "https://twitter.com/jsimmonsMSFT"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/JefTek"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			}
+		]
+	},
+	{
 		"recordingdate": "02/01/2023",
 		"topic": "Real World Incident Response with Microsoft DART",
 		"expirydate": "02/01/2123",
