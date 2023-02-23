@@ -1,5 +1,56 @@
 [
 	{
+		"recordingdate": "02/22/2023",
+		"topic": "Q&A with Alex Simons",
+		"expirydate": "02/28/2123",
+		"link": "https://twitter.com/i/spaces/1DXGyvrVWQnJM/",
+		"summary": "Join Alex Simons for this Q&A on how features in Azure AD get designed, how they go through the shipping cycle and things he's most excited about in identity.",
+		"links": [
+			{
+				"linktext": "Free ADFS to Azure AD Workshop",
+				"linkurl": "https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480"
+			},
+			{
+				"linktext": "Azure AD Blog",
+				"linkurl": "https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity"
+			},
+			{
+				"linktext": "John Savill's Youtube to stay up to date with what's new",
+				"linkurl": "https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ"
+			},
+			{
+				"linktext": "Conditional Access for Workload Identities",
+				"linkurl": "https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/workload-identity"
+			},
+			{
+				"linktext": "Going Passwordless",
+				"linkurl": "https://aka.ms/gopasswordless"
+			}
+		],
+		"participants": [
+			{
+				"name": "Alex Simons - Microsoft",
+				"link": "https://twitter.com/Alex_A_Simons"
+			},
+			{
+				"name": "Bailey Bercik - Microsoft",
+				"link": "https://twitter.com/BaileyBercik"
+			},
+			{
+				"name": "Jef Kazimer - Microsoft",
+				"link": "https://twitter.com/JefTek"
+			},
+			{
+				"name": "Mark Morowczynski - Microsoft",
+				"link": "https://twitter.com/markmorow"
+			},
+			{
+				"name": "Merill Fernando - Microsoft",
+				"link": "https://twitter.com/merill"
+			}
+		]
+	},
+	{
 		"recordingdate": "02/08/2023",
 		"topic": "Migrating from Windows Server 2012 R2",
 		"expirydate": "02/08/2123",
